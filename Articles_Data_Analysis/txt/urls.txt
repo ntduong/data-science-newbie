@@ -1,0 +1,11 @@
+http://normaldeviate.wordpress.com/feed/
+http://feeds2.feedburner.com/MachineLearningtheory
+http://feeds.feedburner.com/cnet/NnTv
+http://feeds.bbci.co.uk/news/rss.xml
+http://rss.cnn.com/rss/edition.rss
+http://www.japantoday.com/feed
+http://rss.cnn.com/rss/edition_technology.rss
+http://www.technologyreview.com/computing/rss/
+http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+http://feeds2.feedburner.com/time/world
+http://mark.reid.name/blog/atom.xml
