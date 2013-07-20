@@ -1,0 +1,2713 @@
+% Masashi Sugiyama's Publications
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Journals
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Submitted
+
+@Article{AppOpt:Yamashita+etal:2012,
+  AUTHOR      = {Yamashita, A. and Sugiyama, M. and Kitagawa, K. and Kobayashi, H.},
+  TITLE       = {Multiwavelength-Integrated Local Model Fitting Method for Interferometric Surface Profiling},
+  JOURNAL     = {Applied Optics},
+  YEAR        = {2012},
+  VOLUME      = {},
+  NUMBER      = {},
+  PAGES       = {},
+}
+
+@Article{NN:Jitkrittum+etal:2012,
+  author = 	 {W. Jitkrittum and H. Hachiya and M. Sugiyama},
+  title = {Feature Selection via $\ell_1$-Penalized Squared-Loss Mutual Information},
+note={submitted}
+}
+  JOURNAL     = {Machine Learning},
+  YEAR        = {2012},
+  VOLUME      = {xxx},
+  NUMBER      = {xxx},
+  PAGES       = {xxx--xxx},
+
+@Article{ML:Kanamori+etal:2012b,
+  author = 	 {T. Kanamori and T. Suzuki and M. Sugiyama},
+  title = {Computational Complexity of Kernel-Based Density-Ratio Estimation: {A} Condition Number Analysis},
+  JOURNAL     = {Machine Learning},
+  YEAR        = 2012,
+}
+  VOLUME      = {xxx},
+  NUMBER      = {xxx},
+  PAGES       = {xxx--xxx},
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% To be published
+
+@Article{IEICE:Simm+etal:2012,
+  author = 	 {Simm, J. and Sugiyama, M. and Hachiya, H.},
+  TITLE       = {Multi-Task Approach to Reinforcement Learning for Factored-State {M}arkov Decision Problems},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = {2012},
+note={to appear},
+}
+  VOLUME      = {E95-D},
+  NUMBER      = {xx},
+ pages={xxx},
+
+@Article{NN:Karasuyama+etal:2012,
+  author = 	 {Karasuyama, M. and Sugiyama},
+  title = {Canonical Dependency Analysis based on Squared-loss Mutual Information},
+  JOURNAL     = {Neural Networks},
+  YEAR        = {2012},
+note={to appear},
+}
+  VOLUME      = {xxx},
+  NUMBER      = {xxx},
+  PAGES       = {xxx--xxx},
+
+@Article{IEICE:Sugiyama+Yamada:2012,
+  author = 	 {Sugiyama, M. and Yamada, M.},
+  TITLE       = {On Kernel Parameter Selection in {H}ilbert-{S}chmidt Independence Criterion},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = {2012},
+note={to appear},
+}
+  VOLUME      = {E95-D},
+  NUMBER      = {xx},
+ pages={xxx},
+
+@Article{NC:Suzuki+Sugiyama:2012,
+  author      = {Suzuki, T. and Sugiyama, M.},
+  title       = {Sufficient Dimension Reduction via Squared-Loss Mutual Information Estimation},
+  JOURNAL     = {Neural Computation},
+note={to appear},
+}
+  YEAR        = {},
+  NUMBER      = {},
+  VOLUME      = {},
+  PAGES       = {},
+
+@Article{IEICE:Kobayashi+Sugiyama:2012,
+  author = 	 {Kobayashi, T. and Sugiyama, M.},
+  TITLE       = {Early Stopping Heuristics in Pool-Based Incremental Active Learning for Least-Squares Probabilistic Classifier},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = {2012},
+  VOLUME      = {E95-D},
+note={to appear},
+}
+  NUMBER      = {xx},
+ pages={xxx},
+
+@Article{AISM:Sugiyama+etal:2012,
+  author = 	 {Sugiyama, M. and Suzuki, T. and Kanamori, T.},
+  TITLE       = {Density Ratio Matching under the {B}regman Divergence:
+                 A Unified Framework of Density Ratio Estimation},
+  JOURNAL     = {Annals of the Institute of Statistical Mathematics},
+note={to appear},
+  YEAR        = {2012},
+}
+  VOLUME      = {xxx},
+  NUMBER      = {xxx},
+  PAGES       = {xxx--xxx},
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Published
+
+@Article{ML:Karasuyama+etal:2012,
+  author = 	 {Karasuyama, M. and Harada, N. and Sugiyama, M. and Takeuchi, I.},
+  title = {Multi-Parametric Solution-Path Algorithm for Instance-Weighted Support Vector Machines.},
+  JOURNAL     = {Machine Learning},
+  VOLUME      = {88},
+  NUMBER      = {3},
+  PAGES       = {297--330},
+  YEAR        = {2012},
+}
+
+@Article{SAM:Kawahara+Sugiyama:2012,
+  author = 	 {Kawahara, Y. and Sugiyama, M.},
+  title = {Sequential Change-Point Detection Based on Direct Density-Ratio Estimation},
+  JOURNAL     = {Statistical Analysis and Data Mining},
+  VOLUME      = {5},
+  NUMBER      = {2},
+  PAGES       = {114--127},
+  YEAR        = {2012},
+}
+
+@Article{ML:Kanamori+etal:2012,
+  author = 	 {T. Kanamori and T. Suzuki and M. Sugiyama},
+  title = {Statistical Analysis of Kernel-Based Least-Squares Density-Ratio Estimation},
+  JOURNAL     = {Machine Learning},
+  YEAR        = {2012},
+  VOLUME      = {86},
+  NUMBER      = {3},
+  PAGES       = {335--367},
+}
+
+@Article{IEEE-IT:Kanamori+etal:2012,
+  author = 	 {T. Kanamori and T. Suzuki and M. Sugiyama},
+  TITLE       = {$f$-Divergence Estimation and Two-Sample Homogeneity Test under Semiparametric Density-Ratio Models},
+  JOURNAL     = {{IEEE} Transactions on Information Theory},
+  YEAR        = {2012},
+  VOLUME      = {58},
+  NUMBER      = {2},
+  PAGES       = {708--720},
+}
+
+@article{NN:Zhao+etal:2012,
+  author = 	 {Zhao, T. and Hachiya, H. and Niu, G. and Sugiyama, M.},
+  title =  {Analysis and Improvement of Policy Gradient Estimation},
+  JOURNAL     = {Neural Networks},
+  YEAR        = {2012},
+  VOLUME      = {26},
+  NUMBER      = {},
+  PAGES       = {118--129},
+}
+
+@Article{NeuroComp:Hachiya+etal:2012,
+  author = 	 {Hachiya, H. and Sugiyama, M. and Ueda, N.},
+  TITLE       = {Importance-Weighted Least-Squares Probabilistic Classifier
+                for Covariate Shift Adaptation with Application to Human Activity Recognition},
+  JOURNAL     = {Neurocomputing},
+  YEAR        = {2012},
+  VOLUME      = {80},
+  PAGES       = {93--101},
+}
+
+@Article{NC:Hachiya+etal:2011,
+  author      = {Hachiya, H. and Peters, J. and Sugiyama, M.},
+  title       = {Reward Weighted Regression with Sample Reuse},
+  JOURNAL     = {Neural Computation},
+  YEAR        = {2011},
+  NUMBER      = {23},
+  VOLUME      = {11},
+  PAGES       = {2798--2832},
+}
+
+@Article{JMLR:Nakajima+Sugiyama:2011,
+  author = {Nakajima, S. and Sugiyama, M},
+  title = {Theoretical Analysis of {B}ayesian Matrix Factorization},
+  JOURNAL     = {Journal of Machine Learning Research},
+  YEAR        = {2011},
+  VOLUME      = {12},
+  NUMBER      = {Sep.},
+  PAGES       = {2583--2648},
+}
+
+@Article{JACIII:Kimura+Sugiyama:2011,
+  author = 	 {Kimura, M. and Sugiyama, M.},
+  TITLE       = {Dependence-Maximization Clustering with Least-Squares Mutual Information},
+  JOURNAL     = {Journal of Advanced Computational Intelligence and Intelligent Informatics},
+  YEAR        = {2011},
+  VOLUME      = {15},
+  NUMBER      = {7},
+  PAGES       = {800--805},
+}
+
+@Article{AppOpt:Mori+etal:2011,
+  AUTHOR      = {Mori, S. and Sugiyama, M. and Ogawa, H. and Kitagawa, K. and Irie, K.},
+  TITLE       = {Automatic Parameter Optimization of the Local Model Fitting Method for Single-shot Surface Profiling},
+  JOURNAL     = {Applied Optics},
+  YEAR        = {2011},
+  VOLUME      = {50},
+  NUMBER      = {21},
+  PAGES       = {3773--3780},
+}
+
+@article{NN:Sugiyama+etal:2011b,
+  author = 	 {Sugiyama, M. and Suzuki, T. and Itoh, Y. and Kanamori, T. and Kimura, M.},
+  TITLE       = {Least-Squares Two-Sample Test},
+  JOURNAL     = {Neural Networks},
+  YEAR        = {2011},
+  VOLUME      = {24},
+  NUMBER      = {7},
+  PAGES       = {735--751},
+}
+
+@Article{JASA:Kramer+Sugiyama:2011,
+  AUTHOR      = {Kr\"amer, N. and Sugiyama, M.},
+  TITLE       = {The Degrees of Freedom of Partial Least Squares Regression},
+  JOURNAL     = {Journal of the American Statistical Association},
+  YEAR        = {2011},
+  VOLUME      = {106},
+  NUMBER      = {494},
+  PAGES       = {697--705},
+}
+
+@Article{JMLR:Wang+etal:2011,
+  author = {Wang, L. and Sugiyama, M. and Jing, Z. and Yang, C. and Zhou, Z.-H. and Feng, J.},
+  title = {A Refined Margin Analysis for Boosting Algorithms via Equilibrium Margin},
+  JOURNAL     = {Journal of Machine Learning Research},
+  YEAR        = {2011},
+  VOLUME      = {12},
+  NUMBER      = {Jun.},
+  PAGES       = {1835--1863},
+}
+
+@Article{JMLR:Tomioka+etal:2011,
+  author = {Tomioka, R. and Suzuki, T. and Sugiyama, M.},
+  title = {Super-Linear Convergence of Dual Augmented {L}agrangian Algorithm
+           for Sparsity Regularized Estimation},
+  JOURNAL     = {Journal of Machine Learning Research},
+  YEAR        = {2011},
+  VOLUME      = {12},
+  Month      = {May},
+  PAGES       = {1537--1586},
+}
+
+@Article{IEICE:Yamada+etal:2011,
+  author = 	 {Yamada, M. and Sugiyama, M. and Wichern, G. and Simm, J.},
+  TITLE       = {Improving the Accuracy of Least-Squares Probabilistic Classifiers},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = {2011},
+  VOLUME      = {E94-D},
+  NUMBER      = {6},
+ pages={1337--1340},
+}
+
+@Article{IEICE:Sugiyama+Suzuki:2011,
+  author = 	 {Sugiyama, M. and Suzuki, T.},
+  TITLE       = {Least-Squares Independence Test},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = {2011},
+  VOLUME      = {E94-D},
+  NUMBER      = {6},
+ pages={1333--1336},
+}
+
+@Article{IEICE:Ueki+etal:2011,
+  author = 	 {Ueki, K. and Sugiyama, M. and  Ihara, Y.},
+  TITLE       = {Lighting Condition Adaptation for Perceived Age Estimation},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = 2011,
+  VOLUME      = {E94-D},
+  NUMBER      = {2},
+ pages={392--395},
+}
+
+@Article{IPSJ:Simm+etal:2011,
+  author = 	 {Simm, J. and Sugiyama, M. and Kato, T.},
+  TITLE       = {Computationally Efficient Multi-task Learning
+          with Least-Squares Probabilistic Classifiers},
+  JOURNAL     = {{IPSJ} Transactions on Computer Vision and Applications},
+  YEAR        = {2011},
+  VOLUME      = {3},
+ pages={1--8},
+}
+
+@article{NN:Sugiyama+etal:2011a,
+  author = 	 {Sugiyama, M. and Yamada, M. and von B\"unau, P.
+                  and Suzuki, T. and Kanamori, T. and Kawanabe, M.},
+  TITLE       = {Direct Density-ratio Estimation with Dimensionality Reduction
+                 via Least-squares Hetero-distributional Subspace Search},
+  JOURNAL     = {Neural Networks},
+  YEAR        = {2011},
+  VOLUME      = {24},
+  NUMBER      = {2},
+ pages={183--198},
+}
+
+@Article{KAIS:Hido+etal:2011,
+  author = 	 {Hido, S. and Tsuboi, Y. and Kashima, H. and Sugiyama, M. and Kanamori, T.},
+  title = 	 {Statistical Outlier Detection Using Direct Density Ratio Estimation},
+  journal   = {Knowledge and Information Systems},
+  YEAR        = {2011},
+  VOLUME      = {26},
+  NUMBER      = {2},
+  PAGES       = {309--336},
+}
+
+@ARTICLE{AJS:Rubens+etal:2011,
+  author = {Rubens, N. and Sheinman, V. and Tomioka, R. and Sugiyama, M.},
+  title = {Active Learning in Black-Box Settings},
+  journal = {Austrian Journal of Statistics},
+  year = {2011},
+  volume = {40},
+  pages = {125-135},
+  number = {1--2},
+}
+
+@Article{NC:Suzuki+Sugiyama:2011,
+  author      = {Suzuki, T. and Sugiyama, M.},
+  title       = {Least-Squares Independent Component Analysis},
+  JOURNAL     = {Neural Computation},
+  YEAR        = {2011},
+  VOLUME      = {23},
+  NUMBER      = {1},
+ pages={284--301},
+}
+
+@Article{PISM:Sugiyama:2010,
+  author = 	 {Sugiyama, M.},
+  TITLE       = {A New Approach to Machine Learning Based on Density Ratios},
+  JOURNAL     = {Proceedings of the Institute of Statistical Mathematics},
+ year = {2010},
+  NUMBER      = {58},
+  VOLUME      = {2},
+  PAGES       = {141--155},
+  NOTE = {In Japanese},
+ }
+
+@Article{IEICE:Yamada+etal:2010,
+  author = 	 {Yamada, M. and Sugiyama, M. and  Wichern, G. and Simm, J.},
+  TITLE       = {Direct Importance Estimation with a Mixture of
+                 Probabilistic Principal Component Analyzers},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = 2010,
+  VOLUME      = {E93-D},
+  NUMBER      = {10},
+ pages={2846--2849},
+}
+
+@Article{IEICE:Ueki+etal:2010,
+  author = 	 {Ueki, K. and Sugiyama, M. and  Ihara, Y.},
+  TITLE       = {A Semi-supervised Approach to
+                 Perceived Age Prediction from Face Images},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = 2010,
+  VOLUME      = {E93-D},
+  NUMBER      = {10},
+  PAGES       = {2875--2878},
+}
+
+@Article{IEICE:Sugiyama:2010,
+  author = 	 {Sugiyama, M.},
+  TITLE       = {Superfast-Trainable Multi-Class Probabilistic Classifier
+                 by Least-Squares Posterior Fitting},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = 2010,
+  VOLUME      = {E93-D},
+  NUMBER      = {10},
+ pages={2690--2701},
+}
+
+@Article{IEICE:Sugiyama+etal:2010b,
+  AUTHOR      = {Sugiyama, M. and Hachiya, H. and Kashima, H. and Morimura, T.},
+  TITLE       = {Least Absolute Policy Iteration---{A} Robust Approach to
+                 Value Function Approximation},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  YEAR        = 2010,
+  VOLUME      = {E93-D},
+  NUMBER      = {9},
+  PAGES       = {2555--2565},
+}
+
+@Article{AppOpt:Kurihara+etal:2010,
+  AUTHOR      = {Kurihara, N. and Sugiyama, M. and Ogawa, H. and Kitagawa, K. and Suzuki, K.},
+  TITLE       = {Iteratively-Reweighted Local Model Fitting Method
+                 for Adaptive and Accurate Single-Shot Surface Profiling},
+  JOURNAL     = {Applied Optics},
+  VOLUME      = {49},
+  NUMBER      = {22},
+  PAGES       = {4270--4277},
+  YEAR        = {2010},
+}
+
+@Article{IEEE-TKDE:Kato+etal:2010,
+  AUTHOR      = {Kato, T. and Kashima, H. and Sugiyama, M. and Asai, K.},
+  TITLE       = {Conic Programming for Multi-Task Learning},
+  JOURNAL     = {{IEEE} Transactions on Knowledge and Data Engineering},
+  YEAR        = {2010},
+  VOLUME      = {22},
+  NUMBER      = {7},
+  PAGES       = {957--968},
+}
+
+@Article{IEEE-TBME:Li+etal:2010,
+ author = {Y. Li and H. Kambara and Y. Koike and M. Sugiyama},
+ title = {Application  of Covariate Shift Adaptation Techniques in Brain Computer Interfaces},
+ journal     = {{IEEE} Transactions on Biomedical Engineering},
+ year = {2010},
+  VOLUME      = {57},
+  NUMBER      = {6},
+ pages={1318--1324},
+ }
+
+@Article{IEICE:Shimizu+etal:2010,
+  author = 	 {Shimizu, N. and Sugiyama, M. and Nakagawa, H.},
+  TITLE       = {Spectral Methods for Thesaurus Construction},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E93-D},
+  NUMBER      = {6},
+  YEAR        = {2010},
+  PAGES       = {1378--1385},
+}
+
+@Article{NN:Akiyama+etal:2010,
+  author = 	 {Akiyama, T. and Hachiya, H. and Sugiyama, M.},
+  TITLE       = {Efficient Exploration through Active Learning
+                 for Value Function Approximation in Reinforcement Learning},
+  JOURNAL     = {Neural Networks},
+  VOLUME      = {23},
+  NUMBER      = {5},
+ pages={639--648},
+ year = {2010},
+}
+
+@Article{SP:Yamada+etal:2010,
+  AUTHOR      = {Yamada, M. and Sugiyama, M. and Matsui, T.},
+  TITLE       = {Semi-supervised Speaker Identification under Covariate Shift},
+  JOURNAL     = {Signal Processing},
+  VOLUME      = {90},
+  NUMBER      = {8},
+  PAGES       = {2353--2361},
+  YEAR        = {2010},
+}
+
+@Article{IEICE:Kanamori+etal:2010,
+  AUTHOR      = {Kanamori, T. and Suzuki, T. and Sugiyama, M.},
+  TITLE       = {Theoretical Analysis of Density Ratio Estimation},
+  JOURNAL     = {{IEICE} Transactions on Fundamentals of Electronics,
+                 Communications and Computer Sciences},
+  YEAR        = {2010},
+  VOLUME      = {E93-A},
+  NUMBER      = {4},
+  PAGES       = {787--798},
+}
+
+@Article{IJKDB:Kato+etal:2010,
+  AUTHOR      = {Kato, T. and Okada, K. and Kashima, H. and Sugiyama, M.},
+  TITLE       = {A Transfer Learning Approach and Selective Integration of
+                 Multiple Types of Assays for Biological Network Inference},
+  JOURNAL     = {International Journal of Knowledge Discovery in Bioinformatics},
+  VOLUME      = {1},
+  NUMBER      = {1},
+  YEAR        = {2010},
+  PAGES       = {66--80},
+}
+
+@Article{IEICE:Sugiyama+etal:2010a,
+  author = 	 {Sugiyama, M. and Takeuchi, I. and Suzuki, T.
+                  and Kanamori, T. and Hachiya, H. and Okanohara, D.},
+  TITLE       = {Least-squares Conditional Density Estimation},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E93-D},
+  NUMBER      = {3},
+  YEAR        = {2010},
+  PAGES       = {583--594},
+}
+
+@Article{ML:Sugiyama+etal:2010,
+  author = 	 {Sugiyama, M. and Id\'e, T. and Nakajima, S. and Sese, J.},
+  title = 	 {Semi-supervised Local {F}isher Discriminant Analysis
+                  for Dimensionality Reduction},
+  JOURNAL     = {Machine Learning},
+  VOLUME      = {78},
+  NUMBER      = {1--2},
+  PAGES       = {35--61},
+  YEAR        = {2010},
+}
+
+@article{NN:Sugiyama+etal:2010,
+  author = 	 {Sugiyama, M. and Kawanabe, M. and Chui, P. L.},
+  TITLE       = {Dimensionality Reduction for Density Ratio Estimation in High-dimensional Spaces},
+  JOURNAL     = {Neural Networks},
+  YEAR        = {2010},
+  VOLUME      = {23},
+  NUMBER      = {1},
+  PAGES       = {44--59},
+}
+
+@ARTICLE{IPSJ:Rubens+etal:2009,
+  AUTHOR      = {Rubens, N. and Tomioka, R. and Sugiyama, M.},
+  TITLE       = {Output Divergence Criterion for Active Learning in Collaborative Settings},
+  JOURNAL     = {{IPSJ} Transactions on Mathematical Modeling and Its Applications},
+  VOLUME      = {2},
+  NUMBER      = {3},
+  PAGES       = {87--96},
+  YEAR        = {2009},
+}
+
+@Article{NN:Hachiya+etal:2009,
+  author = 	 {Hachiya, H. and Akiyama, T. and Sugiyama, M. and Peters, J.},
+  TITLE       = {Adaptive Importance Sampling for Value Function Approximation
+                 in Off-policy Reinforcement Learning},
+  JOURNAL     = {Neural Networks},
+  YEAR        = {2009},
+  VOLUME      = {22},
+  NUMBER      = {10},
+  PAGES       = {1399--1410},
+}
+
+@Article{JSPE:Naito+etal:2009,
+  author =  {Naito, T., and Sugiyama, M. and Ogawa, H. and Kitagawa, K. and Suzuki, K.},
+  TITLE       = {Single-shot Interferometry of Film-covered Objects},
+  JOURNAL     = {Journal of the Japan Society for Precision Engineering},
+  VOLUME      = {75},
+  NUMBER      = {11},
+  PAGES       = {1315--1322},
+  YEAR        = {2009},
+  NOTE = {In Japanese},
+}
+
+@Article{Bio:Kashima+etal:2009,
+  author = 	 {Kashima, H. and Kato, T. and Yamanishi, Y. and Sugiyama, M. and Tsuda, K.},
+  title = 	 {Simultaneous Inference of Biological Networks of Multiple Species
+                  from Genome-wide Data and Evolutionary Information: A Semi-supervised Approach},
+  JOURNAL     = {Bioinformatics},
+  YEAR        = {2009},
+  VOLUME      = {25},
+  NUMBER      = {22},
+  PAGES       = {2962--2968},
+}
+
+@Article{IEEE-SPL:Tomioka+Sugiyama:2009,
+  AUTHOR      = {Tomioka, R. and Sugiyama, M.},
+  TITLE       = {Dual Augmented {L}agrangian Method for Efficient Sparse Reconstruction},
+  JOURNAL     = {{IEEE} Signal Processing Letters},
+  VOLUME      = {16},
+  NUMBER      = {12},
+  PAGES       = {1067--1070},
+  YEAR        = {2009},
+}
+
+@Article{IEICE:Yamada+Sugiyama:2009,
+  author = 	{Yamada, M. and Sugiyama, M.},
+  TITLE       = {Direct Importance Estimation with {G}aussian Mixture Models},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E92-D},
+  NUMBER      = {10},
+  YEAR        = 2009,
+  PAGES       = {2159--2162},
+}
+
+@ARTICLE{IPSJ:Sugiyama+etal:2009,
+  author = 	 {Sugiyama, M. and Kanamori, T. and Suzuki, T. and Hido, S. and
+                  Sese, J. and Takeuchi, I. and Wang, L.},
+  TITLE       = {A Density-ratio Framework for Statistical Data Processing},
+  JOURNAL     = {{IPSJ} Transactions on Computer Vision and Applications},
+  YEAR        = {2009},
+  VOLUME      = {1},
+  PAGES       = {183--208},
+}
+
+@Article{JMLR:Kanamori+etal:2009,
+  author = 	 {Kanamori, T. and Hido, S. and Sugiyama, M.},
+  title = 	 {A Least-squares Approach to Direct Importance Estimation},
+  JOURNAL     = {Journal of Machine Learning Research},
+  YEAR        = {2009},
+  VOLUME      = {10},
+  Month      = {Jul.},
+  PAGES       = {1391--1445},
+}
+
+@Article{NGC:Takeda+Sugiyama:2009,
+  author = 	 {Takeda, A. and Sugiyama, M.},
+  TITLE       = {On Generalization Performance and Non-convex Optimization
+                of Extended $\nu$-support Vector Machine},
+  JOURNAL     = {New Generation Computing},
+  YEAR        = {2009},
+  VOLUME      = {27},
+  NUMBER      = {3},
+  PAGES       = {259--279},
+}
+
+@Article{IEICE:Kashima+etal:2009,
+  author = 	{Kashima, H. and  Ide, T. and Kato, T. and Sugiyama, M.},
+  TITLE       = {Recent Advances and Trends in Large-scale Kernel Methods},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E92-D},
+  NUMBER      = {7},
+  PAGES       = {1338--1353},
+  YEAR        = {2009},
+}
+
+@Article{AppOpt:Yokota+etal:2009,
+  AUTHOR      = {Yokota, T. and Sugiyama, M. and Ogawa, H. and Kitagawa, K. and Suzuki, K.},
+  TITLE       = {The Interpolated Local Model Fitting Method
+                 for Accurate and Fast Single-shot Surface Profiling},
+  JOURNAL     = {Applied Optics},
+  VOLUME      = {48},
+  NUMBER      = {18},
+  PAGES       = {3497--3508},
+  YEAR        = {2009},
+}
+
+@ARTICLE{ML:Sugiyama+Nakajima:2009,
+  AUTHOR      = {Sugiyama, M. and Nakajima, S.},
+  TITLE       = {Pool-based Active Learning in Approximate Linear Regression},
+  JOURNAL     = {Machine Learning},
+  YEAR        = {2009},
+  VOLUME      = {75},
+  NUMBER      = {3},
+  PAGES       = {249-274},
+}
+
+@Article{IEICE:Sugiyama:2009,
+  author = 	{Sugiyama, M.},
+  TITLE       = {On Computational Issues of Semi-supervised Local {F}isher Discriminant Analysis},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E92-D},
+  YEAR        = {2009},
+  NUMBER      = {5},
+  PAGES       = {1204--1208},
+}
+
+@Article{NC:Wang+etal:2009,
+  author      = {Wang, L. and Sugiyama, M. and Yang, C. and
+                 Hatano, K. and Feng, J.},
+  title       = {Theory and Algorithm for Learning with Dissimilarity Functions},
+  JOURNAL     = {Neural Computation},
+  VOLUME      = {21},
+  NUMBER      = {5},
+  PAGES       = {1459--1484},
+  YEAR        = {2009},
+}
+
+@ARTICLE{JIP:Tsuboi+etal:2009,
+  AUTHOR      = {Tsuboi, Y. and Kashima, H. and Hido, S. and Bickel, S. and Sugiyama, M.},
+  TITLE       = {Direct Density Ratio Estimation for Large-scale Covariate Shift Adaptation},
+  JOURNAL     = {Journal of Information Processing},
+  VOLUME      = {17},
+  PAGES       = {138--155},
+  YEAR        = {2009},
+}
+
+@Article{SICE:Ogawa+etal:2009,
+  author = {Ogawa, H. and Nakanowatari, A. and Kitagawa, K.
+            and Sugiyama, M. and Naito, T.},
+  TITLE  = {Simultaneous Measurement of Film Thickness and Surface Profile
+          of Film-covered Objects by Monochromatic Light Interferometry},
+  JOURNAL = {Transactions of the Society of Instrument and Control Engineers},
+  VOLUME      = {45},
+  NUMBER      = {2},
+  PAGES       = {73--82},
+  YEAR = {2009},
+  NOTE = {In Japanese},
+}
+
+@Article{JSPE:Kitagawa+etal:2009,
+  author = 	 {Kitagawa, K. and Sugiyama, M. and Matsuzaka, T. and Ogawa, H. and Suzuki, K.},
+  TITLE       = {Two-wavelength Single-shot Interferometry},
+  JOURNAL     = {Journal of the Japan Society for Precision Engineering},
+  VOLUME      = {75},
+  NUMBER      = {2},
+  PAGES       = {273--277},
+  YEAR        = {2009},
+  NOTE = {In Japanese},
+}
+
+@Article{BMCBio:Suzuki+etal:2009,
+  author = 	 {Suzuki, T. and Sugiyama, M. and Kanamori, T. and Sese, J.},
+  title = 	 {Mutual Information Estimation Reveals Global Associations
+                  between Stimuli and Biological Processes},
+  JOURNAL     = {{BMC} Bioinformatics},
+  YEAR        = {2009},
+  VOLUME      = {10},
+  NUMBER      = {1},
+  PAGES       = {S52},
+}
+
+@Article{IEEE-NN:Kato+etal:2009,
+  AUTHOR      = {Kato, T. and Kashima, H. and Sugiyama, M.},
+  TITLE       = {Robust Label Propagation on Multiple Networks},
+  JOURNAL     = {{IEEE} Transactions on Neural Networks},
+  YEAR        = {2009},
+  VOLUME      = {20},
+  NUMBER      = {1},
+  PAGES       = {35--44},
+}
+
+@Article{NN:Sugiyama+Rubens:2008,
+  AUTHOR      = {Sugiyama, M. and Rubens, N.},
+  TITLE       = {A Batch Ensemble Approach to Active Learning with Model Selection},
+  JOURNAL     = {Neural Networks},
+  VOLUME      = {21},
+  NUMBER      = {9},
+  PAGES       = {1278--1286},
+  YEAR        = {2008},
+}
+
+@Article{AISM:Sugiyama+etal:2008,
+  author = 	 {Sugiyama, M. and Suzuki, T. and Nakajima, S. and Kashima, H.
+                  and von B\"unau, P. and Kawanabe, M.},
+  TITLE       = {Direct Importance Estimation for Covariate Shift Adaptation},
+  JOURNAL     = {Annals of the Institute of Statistical Mathematics},
+  VOLUME      = {60},
+  NUMBER      = {4},
+  PAGES       = {699--746},
+  YEAR = {2008},
+}
+
+@Article{IEEE-SPL:Jankovic+Sugiyama:2008,
+  AUTHOR      = {Jankovic, M. V. and Sugiyama, M.},
+  TITLE       = {A Multipurpose Linear Component Analysis Method Based on
+                 Modulated {H}ebb {O}ja Learning Rule},
+  JOURNAL     = {{IEEE} Signal Processing Letters},
+  YEAR        = {2008},
+  VOLUME      = {15},
+  PAGES       = {677--680},
+}
+
+@Article{AutoRobo:Sugiyama+etal:2008,
+  AUTHOR      = {Sugiyama, M. and Hachiya, H. and Towell, C. and Vijayakumar, S.},
+  TITLE       = {Geodesic {G}aussian Kernels for Value Function Approximation.},
+  JOURNAL     = {Autonomous Robots},
+  VOLUME      = {25},
+  NUMBER      = {3},
+  PAGES       = {287--304},
+  YEAR        = {2008},
+}
+
+@Article{IEICE:Sugiyama+etal:2008,
+  author = 	{Sugiyama, M. and Kawanabe, M. and Blanchard, G. and M\"uller, K.-R.},
+  TITLE       = {Approximating the Best Linear Unbiased Estimator
+                 of Non-{G}aussian Signals with {G}aussian Noise},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E91-D},
+  NUMBER      = {5},
+  PAGES       = {1577--1580},
+  YEAR        = {2008},
+}
+
+@Article{IEICE:Gokita+etal:2007,
+  AUTHOR      = {Gokita, S. and Sugiyama, M. and Sakurai, K.},
+  TITLE       = {Analytic Optimization of Adaptive Ridge Parameters
+                 Based on Regularized Subspace Information Criterion},
+  JOURNAL     = {{IEICE} Transactions on Fundamentals of Electronics,
+                 Communications and Computer Sciences},
+  VOLUME      = {E90-A},
+  NUMBER      = {11},
+  PAGES       = {2584--2592},
+  YEAR        = {2007},
+}
+
+@Article{IEICE:Hidaka+Sugiyama:2007,
+  AUTHOR      = {Hidaka, Y. and Sugiyama, M.},
+  TITLE       = {A New Meta-criterion for Regularized Subspace Information Criterion},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E90-D},
+  NUMBER      = {11},
+  PAGES       = {1779--1786},
+  YEAR        = {2007},
+}
+
+@Article{IEICE:Sugiyama:2007,
+  AUTHOR      = {Sugiyama, M.},
+  TITLE       = {Generalization Error Estimation for Non-linear Learning Methods},
+  JOURNAL     = {{IEICE} Transactions on Fundamentals of Electronics,
+                 Communications and Computer Sciences},
+  VOLUME      = {E90-A},
+  NUMBER      = {7},
+  PAGES       = {1496--1499},
+  YEAR        = {2007},
+}
+
+@Article{JMLR:Sugiyama:2007,
+  author = 	 {Sugiyama, M.},
+  title = 	 {Dimensionality Reduction of Multimodal Labeled Data
+                  by Local {F}isher Discriminant Analysis},
+  JOURNAL     = {Journal of Machine Learning Research},
+  VOLUME      = {8},
+  Month      = {May},
+  PAGES       = {1027--1061},
+  YEAR        = {2007},
+}
+
+@Article{JMLR:Sugiyama+etal:2007,
+  author = 	 {Sugiyama, M. and Krauledat, M. and M\"uller, K.-R.},
+  title = 	 {Covariate Shift Adaptation by Importance Weighted Cross Validation},
+  JOURNAL     = {Journal of Machine Learning Research},
+  VOLUME      = {8},
+  Month      = {May},
+  PAGES       = {985--1005},
+  YEAR        = {2007},
+}
+
+@Article{AISM:Kawanabe+etal:2007,
+  author = 	 {Kawanabe, M. and Sugiyama, M. and Blanchard, G. and M\"uller, K.-R.},
+  TITLE       = {A New Algorithm of Non-{G}aussian Component Analysis with
+                 Radial Kernel Functions},
+  JOURNAL     = {Annals of the Institute of Statistical Mathematics},
+  VOLUME      = {59},
+  NUMBER      = {1},
+  PAGES       = {57--75},
+  YEAR = {2007},
+}
+
+@Article{SICE:Ogawa+etal:2007,
+  author = {Ogawa, H. and Shimoyama, K. and Fukunaga, M.
+            and Kitagawa, K. and Sugiyama, M. },
+  TITLE  = {Simultaneous Measurement of Film Thickness and Surface Profile of
+        Film-covered Objects by Using White-light Interferometry},
+  JOURNAL = {Transactions of the Society of Instrument and Control Engineers},
+  VOLUME      = {43},
+  NUMBER      = {2},
+  PAGES       = {71--77},
+  YEAR = {2007},
+  NOTE = {In Japanese},
+}
+
+@Article{AppOpt:Sugiyama+etal:2006,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H. and Kitagawa, K. and Suzuki, K.},
+  TITLE       = {Single-shot Surface Profiling by Local Model Fitting},
+  JOURNAL     = {Applied Optics},
+  VOLUME      = {45},
+  NUMBER      = {31},
+  PAGES       = {7999--8005},
+  YEAR        = {2006},
+}
+
+@Article{IEICE:Sugiyama+Sakurai:2006,
+  AUTHOR      = {Sugiyama, M. and Sakurai, K.},
+  TITLE       = {Analytic Optimization of Shrinkage Parameters Based on
+                 Regularized Subspace Information Criterion},
+  JOURNAL     = {{IEICE} Transactions on Fundamentals of Electronics,
+                 Communications and Computer Sciences},
+  VOLUME      = {E89-A},
+  NUMBER      = {8},
+  PAGES       = {2216--2225},
+  YEAR        = {2006},
+}
+
+@Article{IEICE:Sugiyama+Ogawa:2006,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Constructing Kernel Functions for Binary Regression},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E89-D},
+  NUMBER      = {7},
+  PAGES       = {2243--2249},
+  YEAR        = {2006},
+}
+
+@Article{JMLR:Blanchard+etal:2006,
+  author = 	 {Blanchard, G. and Kawanabe, M. and Sugiyama, M. and
+                 Spokoiny, V. and M\"uller, K.-R.},
+  title = 	 {In Search of Non-{G}aussian Components of a High-dimensional Distribution},
+  JOURNAL     = {Journal of Machine Learning Research},
+  VOLUME      = {7},
+  Month      = {Feb.},
+  PAGES       = {247--282},
+  YEAR        = {2006},
+}
+
+@Article{JMLR:Sugiyama:2006,
+  author = 	 {Sugiyama, M.},
+  title = 	 {Active Learning in Approximately Linear Regression
+                 Based on Conditional Expectation of Generalization Error},
+  JOURNAL     = {Journal of Machine Learning Research},
+  VOLUME      = {7},
+  month      = {Jan.},
+  PAGES       = {141--166},
+  YEAR        = {2006},
+}
+
+@Article{StatDeci:Sugiyama+Mueller:2005,
+  AUTHOR      = {Sugiyama, M. and M{\"u}ller, K.-R.},
+  TITLE       = {Input-Dependent Estimation of Generalization Error under Covariate Shift},
+  JOURNAL     = {Statistics \& Decisions},
+  VOLUME      = {23},
+  NUMBER      = {4},
+  PAGES       = {249--279},
+  YEAR        = {2005},
+}
+
+@Article{NC:Sugiyama+Kawanabe+Mueller:2004,
+  author      = {Sugiyama, M. and Kawanabe, M. and M\"uller, K.-R.},
+  title       = {Trading Variance Reduction with Unbiasedness:
+                  {T}he Regularized Subspace Information Criterion
+                  for Robust Model Selection in Kernel Regression},
+  JOURNAL     = {Neural Computation},
+  VOLUME      = {16},
+  NUMBER      = {5},
+  PAGES       = {1077--1104},
+  YEAR        = {2004},
+}
+
+@Article{NIPLR:Sugiyama+Okabe+Ogawa:2004,
+  AUTHOR      = {Sugiyama, M. and  Okabe, Y. and Ogawa, H.}, 
+  TITLE       = {Perturbation Analysis of a Generalization Error Estimator},
+  JOURNAL     = {Neural Information Processing - {L}etters and Reviews},
+  VOLUME      = {2},
+  NUMBER      = {2},
+  PAGES       = {33--38},
+  YEAR        = {2004},
+}
+
+@Article{IEICE:Sugiyama+Ogawa:2003,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Active Learning with Model Selection---{S}imultaneous Optimization of
+                 Sample Points and Models for Trigonometric Polynomial Models},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E86-D},
+  NUMBER      = {12},
+  PAGES       = {2753--2763},
+  YEAR        = {2003},
+}
+
+@Article{IEICE:Sugiyama:2003,
+  AUTHOR      = {Sugiyama, M.},
+  TITLE       = {Improving Precision of Subspace Information Criterion},
+  JOURNAL     = {{IEICE} Transactions on Fundamentals of Electronics,
+                 Communications and Computer Sciences},
+  VOLUME      = {E86-A},
+  NUMBER      = {7},
+  PAGES       = {1885--1895},
+  YEAR        = {2003},
+}
+
+@Article{JMLR:Sugiyama+Mueller:2002,
+  AUTHOR      = {Sugiyama, M. and M{\"u}ller, K.-R.},
+  TITLE       = {The Subspace Information Criterion for Infinite Dimensional Hypothesis Spaces},
+  JOURNAL     = {Journal of Machine Learning Research},
+  VOLUME      = {3},
+  month      = {Nov.},
+  PAGES       = {323--359},
+  YEAR        = {2002},
+}
+
+@Article{SP:Sugiyama+Ogawa:2002,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {A Unified Method for Optimizing Linear Image Restoration Filters},
+  JOURNAL     = {Signal Processing},
+  VOLUME      = {82},
+  NUMBER      = {11},
+  PAGES       = {1773--1787},
+  YEAR        = {2002},
+}
+
+@Article{IEICE:Sugiyama+Ogawa:2002,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Incremental Construction of Projection Generalizing Neural Networks},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E85-D},
+  NUMBER      = {9},
+  PAGES       = {1433--1442},
+  YEAR        = {2002},
+}
+
+@Article{NN:Sugiyama+Ogawa:2002,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Optimal Design of Regularization Term and
+                 Regularization Parameter by Subspace Information Criterion},
+  JOURNAL     = {Neural Networks},
+  VOLUME      = {15},
+  NUMBER      = {3},
+  PAGES       = {349--361},
+  YEAR        = {2002},
+}
+
+@Article{IEICEJ:Tsuda+Sugiyama+Mueller:2002,
+  AUTHOR      = {Tsuda, K. and Sugiyama, M. and M{\"u}ller, K.-R.},
+  TITLE       = {Subspace Information Criterion for Sparse Regressors},
+  JOURNAL     = {{IEICE} Transactions},
+  VOLUME      = {85-D-II},
+  NUMBER      = {5},
+  PAGES       = {766--775},
+  YEAR        = {2002},
+  NOTE        = {In Japanese},
+}
+
+@Article{IEEE-NN:Tsuda+Sugiyama+Mueller:2002,
+  AUTHOR      = {Tsuda, K. and Sugiyama, M. and M{\"u}ller, K.-R.},
+  TITLE       = {Subspace Information Criterion for Non-quadratic
+                 Regularizers---{M}odel Selection for Sparse Regressors},
+  JOURNAL     = {{IEEE} Transactions on Neural Networks},
+  YEAR        = {2002},
+  VOLUME      = {13},
+  NUMBER      = {1},
+  PAGES       = {70--80},
+}
+
+@ARTICLE{ML:Sugiyama+Ogawa:2002,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Theoretical and Experimental Evaluation of the Subspace Information Criterion},
+  JOURNAL     = {Machine Learning},
+  memo        = {Special Issue on New Methods
+                 for Model Selection and Model Combination},
+  VOLUME      = {48},
+  NUMBER      = {1/2/3},
+  PAGES       = {25--50},
+  YEAR        = {2002},
+}
+
+@ARTICLE{IEICE:Sugiyama+Imaizumi+Ogawa:2001,
+  AUTHOR      = {Sugiyama, M. and Imaizumi, D. and Ogawa, H.},
+  TITLE       = {Subspace Information Criterion for Image
+                 Restoration---{O}ptimizing Parameters in Linear Filters},
+  JOURNAL     = {{IEICE} Transactions on Information and Systems},
+  VOLUME      = {E84-D},
+  NUMBER      = {9},
+  PAGES       = {1249--1256},
+  YEAR        = {2001},
+}
+
+@ARTICLE{IEICE:Sugiyama+Ogawa:2001,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Active Learning for Optimal Generalization
+                 in Trigonometric Polynomial Models},
+  JOURNAL     = {{IEICE} Transactions on Fundamentals of
+                 Electronics, Communications and Computer Sciences},
+  VOLUME      = {E84-A},
+  NUMBER      = {9},
+  PAGES       = {2319--2329},
+  YEAR        = {2001},
+}
+
+@ARTICLE{NC:Sugiyama+Ogawa:2001,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Subspace Information Criterion for Model Selection},
+  JOURNAL     = {Neural Computation},
+  VOLUME      = {13},
+  NUMBER      = {8},
+  PAGES       = {1863--1889},
+  YEAR        = {2001},
+}
+
+@ARTICLE{NN:Sugiyama+Ogawa:2001b,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Properties of Incremental Projection Learning},
+  JOURNAL     = {Neural Networks},
+  VOLUME      = {14},
+  NUMBER      = {1},
+  PAGES       = {67--78},
+  YEAR        = {2001},
+}
+
+@ARTICLE{NN:Sugiyama+Ogawa:2001a,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Incremental Projection Learning for Optimal Generalization},
+  JOURNAL     = {Neural Networks},
+  VOLUME      = {14},
+  NUMBER      = {1},
+  PAGES       = {53--66},
+  YEAR        = {2001},
+}
+
+@ARTICLE{NC:Sugiyama+Ogawa:2000,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Incremental Active Learning for Optimal Generalization},
+  JOURNAL     = {Neural Computation},
+  VOLUME      = {12},
+  NUMBER      = {12},
+  PAGES       = {2909--2940},
+  YEAR        = {2000},
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Major Conferences
+
+@Conference{ICPR:Kimura+etal:2012,
+ author =       {A. Kimura and M. Sugiyama and H. Kameoka and H. Sakano},
+  title = 	 {Designing Various Component Analysis at Will},
+  year        = {2012},
+  month       = {Nov.~11-15},
+  address     = {Tsukuba, Japan},
+  booktitle   = {21st International Conference on Pattern Recognition (ICPR2012)},
+  pages       = {xxxx--xxxx},
+}
+
+@Conference{ICML:Niu+etal:2012,
+  author = 	 {Niu, G. and Dai, B. and Yamada, M. and Sugiyama, M.},
+  title = 	 {Information-Theoretic Semi-Supervised Metric Learning via Entropy Regularization},
+  booktitle   = {Proceedings of 29th International Conference on Machine Learning (ICML2012)},
+  month       = {Jun.~26--Jul.~1},
+  year        = {2012},
+  address     = {Edinburgh, Scotland},
+ pages=      {89--96},
+ editor =    {J. Langford and J. Pineau},
+  acceptrate= {243/890=27.3\%},
+}
+
+@Conference{ICML:Xie+etal:2012,
+  author = 	 {Xie, N. and Hachiya, H. and Sugiyama, M.},
+  title = 	 {Artist Agent: {A} Reinforcement Learning Approach to Automatic Stroke Generation in Oriental Ink Painting},
+  booktitle   = {Proceedings of 29th International Conference on Machine Learning (ICML2012)},
+  month       = {Jun.~26--Jul.~1},
+  year        = {2012},
+  address     = {Edinburgh, Scotland},
+ pages=      {153--160},
+ editor =    {J. Langford and J. Pineau},
+  acceptrate= {243/890=27.3\%},
+}
+
+@Conference{ICML:duPlessis+Sugiyama:2012,
+  author = 	 {Du Plessis, M. C. and Sugiyama, M.},
+  title = 	 {Semi-Supervised Learning of Class Balance under Class-Prior Change by Distribution Matching},
+  booktitle   = {Proceedings of 29th International Conference on Machine Learning (ICML2012)},
+  month       = {Jun.~26--Jul.~1},
+  year        = {2012},
+  address     = {Edinburgh, Scotland},
+ pages =    {823--830},
+ editor =    {J. Langford and J. Pineau},
+  acceptrate= {243/890=27.3\%},
+}
+
+@CONFERENCE{AISTATS:Suzuki+Sugiyama:2012,
+  AUTHOR      = {Suzuki, T. and Sugiyama, M.},
+  title       = {Fast Learning Rate of Multiple Kernel Learning:
+                 {T}rade-Off between Sparsity and Smoothness},
+  booktitle   = {Proceedings of the Fifteenth International Conference
+                 on Artificial Intelligence and Statistics (AISTATS2012)},
+  year        = {2012},
+  month       = {Apr. 21-23},
+  volume      = {22},
+  editor      = {N. Lawrence and M. Girolami},
+  pages       = {1152--1183},
+  address     = {La Palma, Canary Islands},
+  series      = {JMLR Workshop and Conference Proceedings},
+  acceptrate= {over 400 submissions, 30\%, this paper was selected for oral presentation (12\%)},
+}
+
+@Conference{IWSML:Sugiama+etal:2012,
+  author ={Sugiyama, M. and Hachiya, H. and Yamada, M. and Simm, J. and Nam, H.},
+  title = {Least-Squares Probabilistic Classifier: {A} Computationally Efficient Alternative to Kernel Logistic Regression},
+  BOOKTITLE   = {Proceedings of International Workshop on Statistical Machine Learning for Speech Processing (IWSML2012)},
+  ADDRESS     = {Kyoto, Japan},
+  month       = {Mar.~31},
+  YEAR        = {2012},
+PAGES = {1--10},
+}
+
+@Conference{ICASSP:Nam+etal:2012,
+  author ={Nam, H. and Hachiya, H. and Sugiyama, M.},
+  title = {Computationally Efficient Multi-Label Classification by Least-Squares Probabilistic Classifier},
+  BOOKTITLE   = {Proceedings of 2012 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP2012)},
+  ADDRESS     = {Kyoto, Japan},
+  month       = {Mar.~25--30},
+  YEAR        = {2012},
+PAGES = {2077--2080},
+}
+
+@Conference{NIPS:Yamada+etal:2011,
+  author = 	 {Yamada, M. and Suzuki, T. and Kanamori, T. and Hachiya, H. and Sugiyama, M.},
+  title =  {Relative Density-Ratio Estimation for Robust Distribution Comparison},
+  booktitle   = {Advances in Neural Information Processing Systems 24},
+  year        = {2011},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2011),
+                 Granada, Spain, Dec.~12--17, 2011},
+  editor      = {J. Shawe-Taylor and R. S. Zemel and P. Bartlett and F. C. N. Pereira and K. Q. Weinberger},
+ pages = {594--602},
+  acceptrate= {305/1400=21.8\%},
+}
+
+@Conference{NIPS:Zhao+etal:2011,
+  author = 	 {Zhao, T. and Hachiya, H. and Niu, G. and Sugiyama, M.},
+  title =  {Analysis and Improvement of Policy Gradient Estimation},
+  booktitle   = {Advances in Neural Information Processing Systems 24},
+  year        = {2011},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2011),
+                 Granada, Spain, Dec.~12--17, 2011},
+  editor      = {J. Shawe-Taylor and R. S. Zemel and P. Bartlett and F. C. N. Pereira and K. Q. Weinberger},
+ pages = {262--270},
+  acceptrate= {305/1400=21.8\%},
+}
+
+@Conference{NIPS:Nakajima+etal:2011,
+  author = 	 {Nakajima, S. and Sugiyama, M. and Babacan, D.},
+  title =  {Global Solution of Fully-Observed Variational {B}ayesian Matrix Factorization is Column-Wise Independent},
+  booktitle   = {Advances in Neural Information Processing Systems 24},
+  year        = {2011},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2011),
+                 Granada, Spain, Dec.~12--17, 2011},
+  editor      = {J. Shawe-Taylor and R. S. Zemel and P. Bartlett and F. C. N. Pereira and K. Q. Weinberger},
+ pages = {208--216},
+  acceptrate= {305/1400=21.8\%},
+}
+
+@Conference{NIPS:Takeuchi+Sugiyama:2011,
+  author = 	 {Takeuchi, I. and Sugiyama, M.},
+  title =  {Target Neighbor Consistent Feature Weighting for Nearest Neighbor Classification},
+  booktitle   = {Advances in Neural Information Processing Systems 24},
+  year        = {2011},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2011),
+                 Granada, Spain, Dec.~12--17, 2011},
+  editor      = {J. Shawe-Taylor and R. S. Zemel and P. Bartlett and F. C. N. Pereira and K. Q. Weinberger},
+ pages = {576--584},
+  acceptrate= {305/1400=21.8\%},
+}
+
+@Conference{ACPR:Ueki+etal:2011,
+  author = 	 {Ueki, K. and Sugiyama, M. and Ihara, Y. and Fujita, M.},
+  title = 	 {Multi-Race Age Estimation Based on the Combination of Multiple Classifiers},
+  year        = {2011},
+  month       = {Nov.~28--30},
+  address     = {Beijing, China},
+  booktitle   = {Proceedings of the First Asian Conference on Pattern Recognition (ACPR2011)},
+  pages       = {633--637},
+}
+
+@CONFERENCE{ACML:Yamada+etal:2011,
+  AUTHOR      = {Yamada, M. and Niu, G. and Takagi, J. and Sugiyama, M.},
+  title       = {Computationally Efficient Sufficient Dimension Reduction via Squared-Loss Mutual Information},
+  booktitle   = {Proceedings of the Third Asian Conference on Machine Learning (ACML2011)},
+  year        = {2011},
+  editor      = {C.-N. Hsu and W. S. Lee},
+  series      = {JMLR Workshop and Conference Proceedings},
+  volume      = {20},
+  month       = {Nov.~13-15},
+  address     = {Taoyuan, Taiwan},
+  pages       = {247--262},
+}
+
+@Conference{VECTaR:Yamanaka+etal:2011,
+  author = 	 {Matsugu, M. and Yamanaka, M. and Sugiyama, M.},
+  title = 	 {Detection of Activities and Events without Explicit Categorization},
+        booktitle = {Proceedings of the 3rd International Workshop on Video Event Categorization, Tagging and Retrieval for Real-World Applications (VECTaR2011)},
+  address     = {Barcelona, Spain},
+  month       = {Nov.~13},
+  year = 	 {2011},
+pages =        {1532--1539},
+}
+
+@Conference{MLSP:Karasuyama+etal:2011,
+  author = 	 {Karasuyama, M. and Harada, N. and Sugiyama, M. and Takeuchi, I.},
+  title = 	 {Multi-parametric Solution-path Algorithm for Instance-weighted Support Vector Machines},
+  year        = {2011},
+  month       = {Sep.~18-21},
+  address     = {Beijing, China},
+  booktitle   = {IEEE International Workshop on Machine Learning for Signal Processing (MLSP2011)},
+}
+  pages       = {1--6},
+
+@Conference{AAAI:Yamada+Sugiyama:2011,
+  author = 	 {Yamada, M. and Sugiyama, M.},
+  title = 	 {Direct Density-Ratio Estimation with Dimensionality Reduction
+                  via Hetero-Distributional Subspace Analysis},
+  booktitle   = {Proceedings of the Twenty-Fifth {AAAI} Conference
+                 on Artificial Intelligence (AAAI2011)},
+  month       = {Aug.~7--11},
+  year        = {2011},
+  ADDRESS     = {San Francisco, California, USA},
+  publisher   = {The {AAAI} Press},
+  pages       = {549--554},
+}
+
+@Conference{AAAI:Ide+Sugiyama:2011,
+  author = 	 {Ide, T. and Sugiyama, M.},
+  title = 	 {Trajectory Regression on Road Networks},
+  booktitle   = {Proceedings of the Twenty-Fifth {AAAI} Conference
+                 on Artificial Intelligence (AAAI2011)},
+  month       = {Aug.~7--11},
+  year        = {2011},
+  ADDRESS     = {San Francisco, California, USA},
+  publisher   = {The {AAAI} Press},
+  pages       = {203--208},
+}
+
+@Conference{ICML:Sugiyama+etal:2011,
+  author = 	 {Sugiyama, M. and Yamada, M. and Kimura, M. and Hachiya, H.},
+  title = 	 {On Information-Maximization Clustering: {T}uning Parameter Selection and Analytic Solution},
+  booktitle   = {Proceedings of 28th International Conference on Machine Learning (ICML2011)},
+  month       = {Jun.~28--Jul.~2},
+  year        = {2011},
+  address     = {Bellevue, Washington, USA},
+ editor =    {L. Getoor and T. Scheffer},
+ pages=      {65--72},
+  acceptrate= {152/589=25.8\%}
+}
+
+@Conference{ICML:Nakajima+Sugiyama:2011,
+  author = 	 {Nakajima, S. and Sugiyama, M. and Babacan, D.},
+  title = 	 {On {B}ayesian {PCA}: {A}utomatic Dimensionality Selection and Analytic Solution},
+  booktitle   = {Proceedings of 28th International Conference on Machine Learning (ICML2011)},
+  month       = {Jun.~28--Jul.~2},
+  year        = {2011},
+  address     = {Bellevue, Washington, USA},
+ editor =    {L. Getoor and T. Scheffer},
+ pages=      {497--504},
+  acceptrate= {152/589=25.8\%}
+}
+
+
+@Conference{ICASSP:Takagi+etal:2011,
+  author ={Takagi, J. and Ohishi, Y. and Kimura, A. and Sugiyama, M. and Yamada, M. and Kameoka, H.},
+  title = {Automatic Audio Tag Classification via Semi-Supervised Canonical Density Estimation},
+  BOOKTITLE   = {Proceedings of 2011 IEEE International Conference
+                 on Acoustics, Speech, and Signal Processing (ICASSP2011)},
+  ADDRESS     = {Prague, Czech Republic},
+  month       = {May 22--27},
+  YEAR        = {2011},
+  PAGES       = {2232--2235},
+}
+
+@CONFERENCE{AISTATS:Yamada+Sugiyama:2011,
+  AUTHOR      = {Yamada, M. and Sugiyama, M.},
+  title       = {Cross-Domain Object Matching with Model Selection},
+  booktitle   = {Proceedings of the Fourteenth International Conference
+                 on Artificial Intelligence and Statistics (AISTATS2011)},
+  year        = {2011},
+  series      = {JMLR Workshop and Conference Proceedings},
+  volume      = {15},
+  editor      = {G. Gordon and D. Dunson and M. Dud\'ik},
+  month       = {Apr. 11-13},
+  address     = {Fort Lauderdale, Florida, USA},
+  pages       = {807--815},
+}
+
+@CONFERENCE{AISTATS:Niu+etal:2011,
+  AUTHOR      = {G. Niu and B. Dai and L. Shang and M. Sugiyama},
+  title       = {Maximum Volume Clustering},
+  booktitle   = {Proceedings of the Fourteenth International Conference
+                 on Artificial Intelligence and Statistics (AISTATS2011)},
+  year        = {2011},
+  series      = {JMLR Workshop and Conference Proceedings},
+  volume      = {15},
+  editor      = {G. Gordon and D. Dunson and M. Dud\'ik},
+  month       = {Apr. 11-13},
+  address     = {Fort Lauderdale, Florida, USA},
+  pages       = {561--569},
+}
+
+@Conference{NIPS:Nakajima+etal:2010,
+  author = 	 {Nakajima, S. and Sugiyama, M. and Tomioka, R.},
+  title =  {Global Analytic Solution for Variational {B}ayesian Matrix Factorization},
+  booktitle   = {Advances in Neural Information Processing Systems 23},
+  editor      = {J. Lafferty and C. K. I. Williams and R. Zemel and J. Shawe-Taylor and A. Culotta},
+  pages       = {1759--1767},
+  year        = {2010},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2010),
+                 Vancouver, British Columbia, Canada, Dec.~6-11, 2010},
+}
+
+@CONFERENCE{ACML:Tabei+etal:2010,
+  AUTHOR      = {Tabei, Y. and Uno, T. and Sugiyama, M. and Tsuda, K.},
+  title       = {Single versus Multiple Sorting in All Pairs Similarity Search},
+  booktitle   = {Proceedings of the Second Asian Conference on Machine Learning (ACML2010)},
+  year        = {2010},
+  editor      = {M. Sugiyama and Q. Yang},
+  series      = {JMLR Workshop and Conference Proceedings},
+  volume      = {13},
+  month       = {Nov.~8-10},
+  address     = {Tokyo, Japan},
+  pages       = {145--160},
+}
+
+@Conference{ECML:Hachiya+Sugiyama:2010,
+ author =       {Hachiya, H. and Sugiyama, M.},
+ title =        {Feature Selection for Reinforcement Learning:
+                 {E}valuating Implicit State-Reward Dependency via Conditional Mutual Information},
+ booktitle   = {Machine Learning and Knowledge Discovery in Databases, Part I},
+ year        = {2010},
+ series      = {Lecture Notes in Computer Science},
+ publisher   = {Springer},
+ address     = {Berlin},
+ editor      = {J. L. Balc\'azar and F. Bonchi, A. Gionis and M. Sebag},
+ pages       = {474--489},
+ volume      = {6321},
+ memo        = {Presented at the European Conference on Machine Learning
+                and Principles and Practice of Knowledge Discovery in Databases
+                (ECML-PKDD2010), Barcelona, Spain, Sep.~20--24, 2010},
+ }
+
+@Conference{MLSP:Sugiyama+Simm:2010,
+  author = 	 {Sugiyama, M. and Simm, J.},
+  title = 	 {A Computationally-efficient Alternative to Kernel Logistic Regression},
+  year        = {2010},
+  month       = {Aug.~29--Sep.~1},
+  address     = {Kittil\"a, Finland},
+  booktitle   = {IEEE International Workshop on Machine Learning for Signal Processing (MLSP2010)},
+  editor      = {S. Kaski and D. J. Miller and E. Oja and A. Honkela},
+  pages       = {124--129},
+}
+
+@Conference{MLSP:Takeda+etal:2010,
+  author = 	 {Takeda, A. and Gotoh, J. and Sugiyama, M.},
+  title = 	 {Support Vector Regression as Conditional Value-at-Risk Minimization
+                 with Application to Financial Time-series Analysis},
+  year        = {2010},
+  month       = {Aug.~29--Sep.~1},
+  address     = {Kittil\"a, Finland},
+  booktitle   = {IEEE International Workshop on Machine Learning for Signal Processing (MLSP2010)},
+  editor      = {S. Kaski and D. J. Miller and E. Oja and A. Honkela},
+  pages       = {118--123},
+}
+
+@Conference{ICPR:Ueki+etal:2010,
+  author = 	 {Ueki, K. and Sugiyama, M. and Ihara, Y.},
+  title = 	 {Perceived Age Estimation under Lighting Condition Change by Covariate Shift Adaptation},
+  year        = {2010},
+  month       = {Aug.~23--26},
+  address     = {Istanbul, Turkey},
+  booktitle   = {20th International Conference on Pattern Recognition (ICPR2010)},
+  pages       = {3400--3403},
+}
+
+@Conference{ICPR:Kimura+etal:2010,
+ author =       {A. Kimura and H. Kameoka and M. Sugiyama and T. Nakano and E. Maeda and H. Sakano and K. Ishiguro},
+ title =        {{SemiCCA}: {E}fficient Semi-supervised Learning of Canonical Correlations},
+ year        = {2010},
+ month       = {Aug.~23--26},
+ address     = {Istanbul, Turkey},
+ booktitle   = {20th International Conference on Pattern Recognition (ICPR2010)},
+ pages       = {2933--2936},
+}
+
+@Conference{AAAI:Yamada+Sugiyama:2010,
+  author = 	 {Yamada, M. and Sugiyama, M.},
+  title = 	 {Dependence Minimizing Regression with Model Selection
+                  for Non-Linear Causal Inference under Non-{G}aussian Noise},
+  booktitle   = {Proceedings of the Twenty-Fourth {AAAI} Conference
+                 on Artificial Intelligence (AAAI2010)},
+  month       = {Jul.~11--15},
+  year        = {2010},
+  ADDRESS     = {Atlanta, Georgia, USA},
+  pages       = {643--648},
+  publisher   = {The {AAAI} Press},
+}
+
+@Conference{UAI:Morimura+etal:2010,
+ author    = {Morimura, T. and Sugiyama, M. and Kashima, H. and Hachiya, H. and Tanaka, T.},
+ title     = {Parametric Return Density Estimation for Reinforcement Learning},
+ editor    = {P. Gr\"{u}nwald and P. Spirtes},
+ booktitle = {The 26th Conference on Uncertainty in Artificial Intelligence (UAI2010)},
+ month     = {Jul.~8--11},
+ pages       = {368--375},
+ year            = {2010},
+ address   = {Catalina Island, California, USA},
+}
+
+@Conference{ICML:Nakajima+Sugiyama:2010,
+  author = 	 {Nakajima, S. and Sugiyama, M.},
+  title = 	 {Implicit Regularization in Variational {B}ayesian Matrix Factorization},
+  editor      = {A. T. Joachims and J. F\"urnkranz},
+  booktitle   = {Proceedings of 27th International Conference on Machine Learning (ICML2010)},
+  pages =     {815--822},
+  month       = {Jun.~21--25},
+  year        = {2010},
+  address     = {Haifa, Israel},
+}
+
+@Conference{ICML:Tomioka+etal:2010,
+  author = 	 {Tomioka, R. and Suzuki, T. and Sugiyama, M. and Kashima, H.},
+  title = 	 {An Efficient and General Augmented {L}agrangian Algorithm
+                  for Learning Low-Rank Matrices},
+  editor      = {A. T. Joachims and J. F\"urnkranz},
+  booktitle   = {Proceedings of 27th International Conference on Machine Learning (ICML2010)},
+  pages =     {1087--1094},
+  month       = {Jun.~21--25},
+  year        = {2010},
+  address     = {Haifa, Israel},
+}
+@Conference{ICML:Morimura+etal:2010,
+  author = 	 {Morimura, T. and Sugiyama, M. and Kashima, H. and Hachiya, H. and Tanaka, T.},
+  title = 	 {Nonparametric Return Distribution Approximation for Reinforcement Learning},
+  editor      = {A. T. Joachims and J. F\"urnkranz},
+  booktitle   = {Proceedings of 27th International Conference on Machine Learning (ICML2010)},
+  pages =     {799--806},
+  month       = {Jun.~21--25},
+  year        = {2010},
+  address     = {Haifa, Israel},
+}
+
+@Conference{VISAPP:Ueki+etal:2010,
+  author = 	 {Ueki, K. and Sugiyama, M. and Ihara, Y.},
+  title = 	 {Semi-supervised Estimation of Perceived Age from Face Images},
+  booktitle   = {International Conference on Computer Vision Theory and Applications (VISAPP2010)},
+  year        = {2010},
+  month       = {May 17--21},
+  address     = {Angers, France},
+  pages       = {319--324},
+}
+
+@CONFERENCE{AISTATS:Sugiyama+etal:2010,
+  AUTHOR      = {Sugiyama, M. and Takeuchi, I. and Kanamori, T. and
+                 Suzuki, T. and Hachiya, H. and Okanohara, D.},
+  title       = {Conditional Density Estimation via Least-squares Density Ratio Estimation},
+  booktitle   = {Proceedings of the Thirteenth International Conference
+                 on Artificial Intelligence and Statistics (AISTATS2010)},
+  year        = {2010},
+  editor      = {Y. W. Teh and M. Tiggerington},
+  series      = {JMLR Workshop and Conference Proceedings},
+  volume      = {9},
+  month       = {May 13-15},
+  address     = {Sardinia, Italy},
+  pages       = {781--788},
+}
+
+@CONFERENCE{AISTATS:Suzuki+Sugiyama:2010,
+  AUTHOR      = {Suzuki, T. and Sugiyama, M.},
+  title       = {Sufficient Dimension Reduction via Squared-loss Mutual Information Estimation},
+  booktitle   = {Proceedings of the Thirteenth International Conference
+                 on Artificial Intelligence and Statistics (AISTATS2010)},
+  year        = {2010},
+  editor      = {Y. W. Teh and M. Tiggerington},
+  series      = {JMLR Workshop and Conference Proceedings},
+  volume      = {9},
+  month       = {May 13-15},
+  address     = {Sardinia, Italy},
+  pages       = {804--811},
+}
+
+@Conference{SDM:Sugiyama+etal:2010,
+  author = 	 {Sugiyama, M. and Hara, S. and von B\"unau, P. and
+                  Suzuki, T. and Kanamori, T. and Kawanabe, M.},
+  title = 	 {Direct Density Ratio Estimation with Dimensionality Reduction},
+  booktitle   = {Proceedings of the 10th {SIAM} International Conference
+                 on Data Mining (SDM2010)},
+  editor      = {S. Parthasarathy and B. Liu and B. Goethals and J. Pei and C. Kamath},
+  pages       = {595--606},
+  year        = {2010},
+  month       = {Apr.~29--May 1},
+  address     = {Columbus, Ohio, USA},
+}
+
+@Conference{ICASSP:Yamada+etal:2010a,
+  author ={M. Yamada and M. Sugiyama and G. Wichern},
+  title = {Direct Importance Estimation with Probabilistic Principal Component Analyzers},
+  BOOKTITLE   = {Proceedings of 2010 IEEE International Conference
+                 on Acoustics, Speech, and Signal Processing (ICASSP2010)},
+  ADDRESS     = {Dallas, Texas, USA},
+  month       = {Mar.~14--19},
+  YEAR        = {2010},
+  PAGES       = {1962--1965},
+}
+
+@Conference{ICASSP:Yamada+etal:2010b,
+  author ={M. Yamada and M. Sugiyama and G. Wichern and T. Matsui},
+  title = {Acceleration of Sequence Kernel Computation for Real-time Speaker Identification},
+  BOOKTITLE   = {Proceedings of 2010 IEEE International Conference
+                 on Acoustics, Speech, and Signal Processing (ICASSP2010)},
+  ADDRESS     = {Dallas, Texas, USA},
+  month       = {Mar.~14--19},
+  YEAR        = {2010},
+  PAGES       = {1626--1629},
+}
+
+@Conference{ICASSP:Wichern+etal:2010,
+  author ={G. Wichern and M. Yamada and H. Thornburg and M. Sugiyama and  A. Spanias},
+  title = {Automatic Audio Tagging Using Covariate Shift Adaptation},
+  BOOKTITLE   = {Proceedings of 2010 IEEE International Conference
+                 on Acoustics, Speech, and Signal Processing (ICASSP2010)},
+  ADDRESS     = {Dallas, Texas, USA},
+  month       = {Mar.~14--19},
+  YEAR        = {2010},
+  PAGES       = {253--256},
+}
+
+@Conference{ACML:Sugiyama:2009,
+ author = {M. Sugiyama},
+ title = {Density Ratio Estimation: A New Versatile Tool for Machine Learning},
+ booktitle   = {Advances in Machine Learning},
+ year        = {2009},
+ series      = {Lecture Notes in Artificial Intelligence},
+pages={6--9},
+ editor      = {Z.-H. Zhou and T. Washio},
+ volume      = {5828},
+ publisher   = {Springer},
+ address = {Berlin},
+ memo        = {Presented at the First Asian Conference on Machine Learning
+                (ACML2009), Nanjing, China Nov.~2--4, 2009},
+ }
+
+@Conference{BMEI:Li+etal:2009,
+ author = {Y. Li and Y. Koike and M. Sugiyama},
+ title = {A Framework of Adaptive Brain Computer Interfaces},
+ booktitle = {Proceedings of the 2nd International Conference
+              on BioMedical Engineering and Informatics (BMEI09)},
+ year = {2009},
+ address = {Tianjin, China},
+  month       = {Oct.~17--19},
+pages={473--477},
+ }
+
+@Conference{ECML:Hachiya+etal:2009,
+ author =       {Hachiya, H. and Peters, J. and Sugiyama, M.},
+ title =        {Efficient Sample Reuse in {EM}-based Policy Search},
+ booktitle   = {Machine Learning and Knowledge Discovery in Databases},
+ year        = {2009},
+ series      = {Lecture Notes in Computer Science},
+ publisher   = {Springer},
+ address     = {Berlin},
+ memo        = {Presented at the European Conference on Machine Learning
+                and Principles and Practice of Knowledge Discovery in Databases
+                (ECML-PKDD2009), Bled, Slovenia, Sep.~7--11, 2009},
+ editor      = {Buntine, W. and Grobelnik, M. and Mladenic, D. and Shawe-Taylor, J.},
+ pages       = {469--484},
+ volume      = {5781},
+ }
+
+@Conference{IJCAI:Akiyama+etal:2009,
+  author = 	 {Akiyama, T. and Hachiya, H. and Sugiyama, M.},
+  title = 	 {Active Policy Iteration:
+                  Efficient Exploration through Active Learning
+                  for Value Function Approximation in Reinforcement Learning},
+  booktitle   = {Proceedings of the Twenty-First International Joint Conference
+                 on Artificial Intelligence (IJCAI2009)},
+  year        = {2009},
+  month       = {Jul.~11--17},
+  address     = {Pasadena, California, USA},
+  pages       = {980--985},
+}
+
+@Conference{ISIT:Suzuki+etal:2009,
+ author = {Suzuki, T. and Sugiyama, M. and Tanaka, T.},
+ title = {Mutual Information Approximation via
+          Maximum Likelihood Estimation of Density Ratio},
+ booktitle = {Proceedings of 2009 IEEE International Symposium on Information Theory (ISIT2009)},
+ year = {2009},
+ address = {Seoul, Korea},
+  month       = {Jun.~28--Jul.~3},
+pages={463--467}
+ }
+
+@CONFERENCE{IJCNN:Jankovic+Sugiyama:2009,
+  AUTHOR      = {Jankovic, M. V. and Sugiyama, M.},
+  TITLE       = {Probabilistic Principal Component Analysis based on Joystick Probability Selector},
+  BOOKTITLE   = {Proceedings of 2009 International Joint Conference on Neural Networks (IJCNN2009)},
+  ADDRESS     = {Atlanta, Georgia, USA},
+  month       = {Jun.~14--19},
+  PAGES       = {1414--1421},
+  YEAR        = {2009},
+}
+
+@CONFERENCE{ICRA:Sugiyama+etal:2009,
+ AUTHOR      = {Sugiyama, M. and Hachiya, H. and Kashima, H. and Morimura, T.},
+ title       = {Least Absolute Policy Iteration for Robust Value Function Approximation},
+ booktitle   = {Proceedings of 2009 IEEE International Conference on
+                Robotics and Automation (ICRA2009)},
+ year        = {2009},
+ month       = {May 12--17},
+ editor      = {A. Bicchi},
+ pages       = {2904--2909},
+}
+
+@Conference{SDM:Kashima+etal:2009,
+  author = 	 {Kashima, H. and Kato, T. and Yamanishi, Y. and Sugiyama, M. and Tsuda, K.},
+  title = 	 {Link Propagation:
+                 {A} Fast Semi-supervised Learning Algorithm for Link Prediction},
+  booktitle   = {Proceedings of 2009 {SIAM} International Conference
+                 on Data Mining (SDM2009)},
+  editor      = {Park, H. and Parthasarathy, S. and Liu, H. and Obradovic, Z.},
+  year        = {2009},
+  month       = {Apr.~30--May 2},
+  address     = {Sparks, Nevada, USA},
+  pages       = {1099--1110},
+}
+
+@Conference{SDM:Kawahara+Sugiyama:2009,
+  author = 	 {Kawahara, Y. and Sugiyama, M.},
+  title = 	 {Change-point Detection in Time-series Data by Direct Density-ratio Estimation},
+  booktitle   = {Proceedings of 2009 {SIAM} International Conference
+                 on Data Mining (SDM2009)},
+  editor      = {Park, H. and Parthasarathy, S. and Liu, H. and Obradovic, Z.},
+  year        = {2009},
+  month       = {Apr.~30--May 2},
+  address     = {Sparks, Nevada, USA},
+  pages       = {389--400},
+}
+
+@Conference{PAKDD:Nakajima+Sugiyama:2009,
+  author = 	 {Nakajima, S. and Sugiyama, M.},
+  title = 	 {Analysis of Variational {B}ayesian Matrix Factorization},
+  booktitle   = {Advances in Knowledge Discovery and Data Mining},
+  year        = {2009},
+  series      = {Lecture Notes in Computer Science},
+  publisher   = {Springer},
+  address     = {Berlin},
+  memo        = {Presented at 
+                 13th Pacific-Asia Conference on
+                 Knowledge Discovery and Data Mining (PAKDD2009),
+                 Bangkok, Thailand, Apr.~27--30, 2009},
+  editor      = {T. Theeramunkong and B. Kijsirikul and N. Cercone and T.-B. Ho},
+  pages       = {314--326},
+  volume      = {5476},
+}
+
+@Conference{ICASSP:Yamada+etal:2009,
+  author = 	 {Yamada, M. and Sugiyama, M. and Matsui, T.},
+  title = 	 {Covariate Shift Adaptation for Semi-supervised Speaker Identification},
+ BOOKTITLE   = {Proceedings of 2009 IEEE International Conference
+                 on Acoustics, Speech, and Signal Processing (ICASSP2009)},
+  ADDRESS     = {Taipei, Taiwan},
+  month       = {Apr.~19--24},
+  YEAR        = {2009},
+  PAGES       = {1661--1664},
+}
+
+@CONFERENCE{AISTATS:Kraemer+etal:2009,
+  AUTHOR      = {Kr\"amer, N. and Sugiyama, M. and Braun, M.},
+  title       = {{L}anczos Approximations for the Speedup of
+                  Kernel Partial Least Squares Regression},
+  series   = {JMLR Workshop and Conference Proceedings},
+  booktitle   = {Proceedings of the Twelfth International Conference
+                 on Artificial Intelligence and Statistics (AISTATS2009)},
+  editor      = {D. van Dyk and M. Welling},
+  pages       = {288--295},
+  year        = {2009},
+  volume      = {5},
+  month ={Apr.~16--18},
+  address    = {Clearwater Beach, Florida, USA},
+}
+
+@Conference{ICA:Suzuki+Sugiyama:2009,
+  author = 	 {Suzuki, T. and Sugiyama, M.},
+  title = 	 {Estimating Squared-Loss Mutual Information
+                  for Independent Component Analysis.},
+  year        = {2009},
+  booktitle   = {Independent Component Analysis and Signal Separation},
+  series      = {Lecture Notes in Computer Science},
+  publisher   = {Springer},
+  address     = {Berlin, Germany},
+  editor = {T. Adali and C. Jutten and J. M. T. Romano and A. K. Barros},
+  volume = {5441},
+  pages = {130--137},
+  memo        = {Presented at 
+                 8th International Conference on
+                 Independent Component Analysis and Signal Separation (ICA2009),
+                 Paraty, Brazil, Mar.~15-18, 2009},
+}
+
+@Conference{APBC:Suzuki+etal:2009,
+  author = 	 {Suzuki, T. and Sugiyama, M. and Kanamori, T. and Sese, J.},
+  title = 	 {Mutual Information Estimation Reveals Global Associations
+                  between Stimuli and Biological Processes},
+  booktitle   = {Proceedings of the Seventh Asia-Pacific Bioinformatics Conference (APBC2009)},
+  editor      = {M. Q. Zhang and M. S. Waterman and X. Zhang},
+  pages = {297--309},
+  year        = {2009},
+  month       = {Jan.~13--16},
+  address     = {Beijing, China},
+}
+
+@Conference{ICDM:Hido+etal:2008,
+  author = 	 {Hido, S. and Tsuboi, Y. and Kashima, H. and Sugiyama, M. and Kanamori, T.},
+  title = 	 {Inlier-based Outlier Detection via Direct Density Ratio Estimation},
+  booktitle   = {Proceedings of IEEE International Conference on Data Mining (ICDM2008)},
+  year        = {2008},
+  editor      = {F. Giannotti and D. Gunopulos and F. Turini and
+                 C. Zaniolo  and N. Ramakrishnan and X. Wu},
+  pages       = {223--232},
+  month       = {Dec.~15--19},
+  address     = {Pisa, Italy},
+}
+
+@Conference{NIPS:Kanamori+etal:2009,
+  author = 	 {Kanamori, T. and Hido, S. and Sugiyama, M.},
+  title =  {Efficient Direct Density Ratio Estimation for
+           Non-stationarity Adaptation and Outlier Detection},
+  booktitle   = {Advances in Neural Information Processing Systems 21},
+  editor      = {D. Koller and D. Schuurmans and Y. Bengio and L. Botton},
+  pages       = {809--816},
+  year        = {2009},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2008),
+                 Vancouver, British Columbia, Canada, Dec.~8-13, 2008},
+}
+
+@Conference{FSDM:Suzuki+etal:2008,
+  author = 	 {Suzuki, T. and Sugiyama, M. and Sese, J. and Kanamori, T.},
+  title = 	 {Approximating Mutual Information by Maximum Likelihood Density Ratio Estimation},
+  booktitle   = {Proceedings of ECML-PKDD2008 Workshop on
+                 New Challenges for Feature Selection in Data Mining
+                 and Knowledge Discovery 2008 (FSDM2008)},
+  series   = {JMLR Workshop and Conference Proceedings},
+  editor      = {Y. Saeys and H. Liu and I. Inza and  L. Wehenkel and Y. Van de Peer},
+  pages       = {5--20},
+  year        = {2008},
+  volume      = {4},
+  address     = {Antwerp, Belgium},
+  month       = {Sep.~15},
+}
+
+@Conference{ECML:Sugiyama+Nakajima:2008,
+  author = 	 {Sugiyama, M. and Nakajima, S.},
+  title = 	 {Pool-based Agnostic Experiment Design in Linear Regression},
+  editor      = {W. Daelemans and B. Goethals and K. Morik},
+  booktitle   = {Machine Learning and Knowledge Discovery in Databases},
+  pages       = {406--422},
+  year        = {2008},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {5212},
+  publisher   = {Springer},
+  address     = {Berlin},
+  memo        = {Presented at the European Conference on Machine Learning
+                 and Principles and Practice of Knowledge Discovery in Databases
+                 (ECML-PKDD2008),
+                 Antwerp, Belgium, Sep.~15--19, 2008},
+}
+
+@Conference{AAAI:Hachiya+etal:2008,
+  author = 	 {Hachiya, H. and Akiyama, T. and Sugiyama, M. and Peters, J.},
+  title = 	 {Adaptive Importance Sampling with Automatic Model Selection
+                  in Value Function Approximation},
+  booktitle   = {Proceedings of the Twenty-Third AAAI Conference
+                 on Artificial Intelligence (AAAI2008)},
+  pages       = {1351--1356},
+  year        = {2008},
+  month       = {Jul.~13--17},
+  address     = {Chicago, Illinois, USA},
+  publisher   = {The {AAAI} Press},
+}
+
+@Conference{COLT:Wang+etal:2008,
+  author = 	 {Wang, L. and Sugiyama, M. and Yang, C. and Zhou, Z.-H. and Feng, J.},
+  title = 	 {On the Margin Explanation of Boosting Algorithms},
+  editor      = {R. Servedio and T. Zhang},
+  booktitle   = {Proceedings of 21st International Conference on Learning Theory (COLT2008)},
+  pages       = {479--490},
+  month       = {Jul.~9--12},
+  year        = {2008},
+  address     = {Helsinki, Finland},
+}
+
+@Conference{ICML:Takeda+Sugiyama:2008,
+  author = 	 {Takeda, A. and Sugiyama, M.},
+  title = 	 {Nu-support Vector Machine
+                  as Conditional Value-at-risk Minimization},
+  editor      = {A. McCallum and S. Roweis},
+  booktitle   = {Proceedings of 25th International Conference on Machine Learning (ICML2008)},
+  pages       = {1056--1063},
+  month       = {Jul.~5--9},
+  publisher = {Omnipress},
+  year        = {2008},
+  address     = {Helsinki, Finland},
+}
+
+@Conference{PAKDD:Sugiyama+etal:2008,
+  author = 	 {Sugiyama, M. and Ide, T. and Nakajima, S. and Sese, J. },
+  title = 	 {Semi-supervised Local {F}isher Discriminant Analysis
+                  for Dimensionality Reduction},
+  editor      = {T. Washio and E. Suzuki and K. M. Ting and A. Inokuchi},
+  booktitle   = {Advances in Knowledge Discovery and Data Mining},
+  pages       = {333--344},
+  year        = {2008},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {5012},
+  publisher   = {Springer},
+  address     = {Berlin},
+  memo        = {Presented at 
+                 12th Pacific-Asia Conference on
+                 Knowledge Discovery and Data Mining (PAKDD2008),
+                 Osaka, Japan, May 20--23, 2008},
+}
+
+@Conference{SDM:Sugiyama+Rubens:2008,
+  author = 	 {Sugiyama, M. and Rubens, N.},
+  title = 	 {Active Learning with Model Selection in Linear Regression},
+  editor      = {M. J. Zaki and K. Wang and C. Apte and H. Park},
+  booktitle   = {Proceedings of the Eighth {SIAM} International Conference
+                 on Data Mining (SDM2008)},
+  pages       = {518--529},
+  year        = {2008},
+  month       = {Apr.~24--26},
+  ADDRESS     = {Atlanta, Georgia, USA},
+}
+
+@Conference{SDM:Kato+etal:2008,
+  author = 	 {Kato, T. and Kashima, H. and Sugiyama, M.},
+  title = 	 {Integration of Multiple Networks for Robust Label Propagation},
+  editor      = {M. J. Zaki and K. Wang and C. Apte and H. Park},
+  booktitle   = {Proceedings of the Eighth {SIAM} International Conference
+                 on Data Mining (SDM2008)},
+  pages       = {716--726},
+  year        = {2008},
+  month       = {Apr.~24--26},
+  ADDRESS     = {Atlanta, Georgia, USA},
+}
+
+@Conference{SDM:Tsuboi+etal:2008,
+  author = 	 {Tsuboi, Y. and Kashima, H. and Hido, S. and Bickel, S. and Sugiyama, M.},
+  title = 	 {Direct Density Ratio Estimation for Large-scale Covariate Shift Adaptation},
+  editor      = {M. J. Zaki and K. Wang and C. Apte and H. Park},
+  booktitle   = {Proceedings of the Eighth {SIAM} International Conference
+                 on Data Mining (SDM2008)},
+  pages       = {443--454},
+  year        = {2008},
+  month       = {Apr.~24--26},
+  ADDRESS     = {Atlanta, Georgia, USA},
+}
+
+@Conference{LKR:Rubens+etal:2008,
+  author = 	 {Rubens, N. and Sheinman, V. and Tokunaga, T. and Sugiyama, M.},
+  title = 	 {Order Retrieval},
+  editor      = {T. Tokunaga and A. Ortega},
+  booktitle   = {Large-scale Knowledge Resources},
+  pages       = {310--317},
+  year        = {2008},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {4938},
+  publisher   = {Springer},
+  address     = {Berlin},
+  memo        = {Presented at 
+                 the 3rd International Conference on Large-scale Knowledge Resources
+                (LKR2008), Tokyo, Japan, Mar.~3-5, 2008},
+}
+
+@Conference{NIPS:Sugiyama+etal:2008,
+  author = 	 {Sugiyama, M. and Nakajima, S. and Kashima, H. and von B\"unau, P. and Kawanabe, M.},
+  title = 	 {Direct Importance Estimation with Model Selection and Its Application to Covariate Shift Adaptation},
+  editor      = {J. C. Platt and D. Koller and Y. Singer and S. Roweis},
+  booktitle   = {Advances in Neural Information Processing Systems 20},
+  pages       = {1433--1440},
+  year        = {2008},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2007),
+                 Vancouver, British Columbia, Canada, Dec.~3-8, 2007},
+}
+
+@Conference{NIPS:Kato+etal:2008,
+  author = 	 {Kato, T. and Kashima, H. and Sugiyama, M. and Asai, K.},
+  title = 	 {Multi-task Learning via Conic Programming},
+  editor      = {J. C. Platt and D. Koller and Y. Singer and S. Roweis},
+  booktitle   = {Advances in Neural Information Processing Systems 20},
+  pages       = {737--744},
+  year        = {2008},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2007),
+                 Vancouver, British Columbia, Canada, Dec.~3-8, 2007},
+}
+
+@Conference{RecSys:Rubens+Sugiyama:2007,
+  author = 	 {Rubens, N. and Sugiyama, M.},
+  title = 	 {Influence-based Collaborative Active Learning},
+  booktitle   = {Proceedings of the 2007 ACM conference on Recommender systems (RecSys2007)},
+  pages       = {145--148},
+  month       = {Oct.~19--20},
+  year        = {2007},
+  address     = {Minneapolis, Minnesota, USA},
+}
+
+@Conference{ICML:Yamazaki+etal:2007,
+  author = 	 {Yamazaki, K. and Kawanabe, M. and Watanabe, S. and Sugiyama, M.
+                  and M\"uller, K.-R.},
+  title = 	 {Asymptotic {B}ayesian Generalization Error
+                  When Training and Test Distributions Are Different},
+  editor      = {Z. Ghahramani},
+  booktitle   = {Proceedings of 24th International Conference on Machine Learning (ICML2007)},
+  pages       = {1079--1086},
+  month       = {Jun.~20--24},
+  year        = {2007},
+  address     = {Corvallis, Oregon, USA},
+}
+
+@CONFERENCE{ICRA:Sugiyama+etal:2007,
+  AUTHOR      = {Sugiyama, M. and Hachiya, H. and Towell, C. and Vijayakumar, S.},
+  title       = {Value Function Approximation on Non-linear Manifolds
+                 for Robot Motor Control},
+  booktitle   = {Proceedings of 2007 IEEE International Conference on
+                 Robotics and Automation (ICRA2007)},
+  pages       = {1733--1740},
+  year        = {2007},
+  month       = {Apr.~10--14},
+  address     = {Rome, Italy},
+}
+
+@CONFERENCE{NIPS:Storkey+Sugiyama:2007,
+  author      = {Storkey, A. and Sugiyama, M.},
+  title       = {Mixture Regression for Covariate Shift},
+  editor      = {B. Sch\"{o}lkopf and J. C. Platt and T. Hoffmann},
+  booktitle   = {Advances in Neural Information Processing Systems 19},
+  pages       = {1337--1344},
+  year        = {2007},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2006),
+                 Vancouver, British Columbia, Canada, Dec.~4--9, 2006},
+}
+
+@Conference{DAGM:Sugiyama+etal:2006,
+  author = 	 {Sugiyama, M. and Blankertz, B. and Krauledat, M.
+                and Dornhege, G. and M\"uller, K.-R.},
+  title = 	 {Importance-weighted Cross-validation for Covariate Shift},
+  BOOKTITLE   = {Pattern Recognition},
+  editor      = {Franke, K. and M\"uller, K.-R. and Nickolay, B. and Sch\"afer, R.},
+  PAGES       = {354--363},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {4174},
+  publisher   = {Springer},
+  address     = {Berlin},
+  YEAR        = {2006},
+  memo        = {Presented at
+                 28th Annual Symposium of the German Association for Pattern Recognition
+                (DAGM2006), Berlin, Germany, Sep.~12--14, 2006},
+}
+
+@CONFERENCE{SPR:Tanaka+etal:2006,
+  AUTHOR      = {Tanaka, A. and Sugiyama, M. and Imai, H. and Kudo, M. and Miyakoshi, M.},
+  TITLE       = {Model Selection Using a Class of Kernels with an Invariant Metric},
+  editor      = {D.-Y. Yeung and J. T. Kwok and A. Fred and F. Roli and D. de Ridder},
+  BOOKTITLE   = {Structural, Syntactic, and Statistical Pattern Recognition},
+  PAGES       = {862--870},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {4109},
+  publisher   = {Springer},
+  address     = {Berlin},
+  YEAR        = {2006},
+  memo        = {Presented at
+                 6th International Workshop on Statistical Pattern Recognition (SPR2006),
+                 Hong Kong, China, Aug.~17--19, 2006},
+}
+
+@Conference{ICML:Sugiyama:2006,
+  author = 	 {Sugiyama, M.},
+  title = 	 {Local {F}isher Discriminant Analysis
+                 for Supervised Dimensionality Reduction},
+  editor      = {W. Cohen and A. Moore},
+  booktitle   = {Proceedings of 23rd International Conference on Machine Learning (ICML2006)},
+  pages       = {905--912},
+  month       = {Jun.~25--29},
+  year        = {2006},
+  address     = {Pittsburgh, Pennsylvannia, USA},
+}
+
+@Conference{ICASSP:Sugiyama+etal:2006,
+  author = 	 {Sugiyama, M. and Kawanabe, M. and Blanchard, G. and
+                 Spokoiny, V. and M\"uller, K.-R.},
+  title = 	 {Obtaining the Best Linear Unbiased Estimator of Noisy Signals
+                 by Non-{G}aussian Component Analysis},
+  BOOKTITLE   = {Proceedings of 2006 IEEE International Conference
+                 on Acoustics, Speech, and Signal Processing (ICASSP2006)},
+  PAGES       = {608--611},
+  ADDRESS     = {Toulouse, France},
+  month       = {May 14--19},
+  YEAR        = {2006},
+}
+
+@CONFERENCE{ICA:Kawanabe+etal:2006,
+  author      = {Kawanabe, M. and Blanchard, G. and Sugiyama, M.
+                 and Spokoiny, V. and M{\"u}ller, K.-R.},
+  title       = {A Novel Dimension Reduction Procedure
+                 for Searching Non-{G}aussian Subspaces},
+  editor      = {J. Rosca and D. Erdogmus and J. C. Pr{\'i}ncipe and S. Haykin},
+  booktitle   = {Independent Component Analysis and Blind Signal Separation},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {3889},
+  pages       = {149--156},
+  year        = {2006},
+  address     = {Berlin, Germany},
+  publisher   = {Springer},
+  memo        = {Presented at 6th International Conference
+                on Independent Component Analysis and Blind Signal Separation (ICA2006),
+                Charleston, South Carolina, USA, Mar.~5--8, 2006},
+}
+
+@CONFERENCE{NIPS:Blanchard+etal:2006,
+  author      = {Blanchard, G. and Sugiyama, M. and Kawanabe, M.
+                 and Spokoiny, V. and M{\"u}ller, K.-R.},
+  title       = {Non-{G}aussian Component Analysis:
+                {A} Semiparametric Framework for Linear Dimension Reduction},
+  editor      = {Y. Weiss and B. Sch\"olkopf and J. Platt},
+  booktitle   = {Advances in Neural Information Processing Systems 18},
+  pages       = {131--138},
+  year        = {2006},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2005),
+                 Vancouver, British Columbia, Canada, Dec.~5--8, 2005},
+}
+
+@CONFERENCE{NIPS:Sugiyama:2006,
+  author      = {Sugiyama, M.},
+  title       = {Active Learning for Misspecified Models},
+  editor      = {Y. Weiss and B. Sch\"olkopf and J. Platt},
+  booktitle   = {Advances in Neural Information Processing Systems 18},
+  pages       = {131--138},
+  year        = {2006},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  memo        = {Presented at Neural Information Processing Systems (NIPS2005),
+                 Vancouver, British Columbia, Canada, Dec.~5--8, 2005},
+}
+
+@CONFERENCE{ICANN:Sugiyama+Mueller:2005,
+  AUTHOR      = {Sugiyama, M. and M{\"u}ller, K.-R.},
+  TITLE       = {Model Selection under Covariate Shift},
+  editor      = {W. Duch and J. Kacprzyk and E. Oja and S. Zadrozny},
+  BOOKTITLE   = {Artificial Neural Networks: Formal Models and Their Applications},
+  PAGES       = {235--240},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {3697},
+  publisher   = {Springer},
+  address     = {Berlin},
+  YEAR        = {2005},
+  memo        = {Presented at
+                 International Conference on Artificial Neural Networks (ICANN2005),
+                 Warsaw, Poland, Sep.~11-15, 2005},
+}
+
+@CONFERENCE{MTNS:Sugiyama+Ogawa:2004,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Designing Kernel Functions Using the {K}arhunen-{L}o\`eve Expansion},
+  BOOKTITLE   = {Proceedings of Sixteenth International Symposium
+                 on Mathematical Theory of Networks and Systems (MTNS2004)},
+  PAGES       = {N/A(CD-ROM)},
+  ADDRESS     = {Leuven, Belgium},
+  month       = {Jul.~5--9, 2004},
+  YEAR        = {2004},
+}
+
+@CONFERENCE{ESANN:Sugiyama+Kawanabe+Mueller:2004,
+  AUTHOR      = {Sugiyama, M. and Kawanabe, M. and M{\"u}ller, K.-R.},
+  TITLE       = {Regularizing Generalization Error Estimators:
+                 {A} Novel Approach to Robust Model Selection},
+  booktitle   = {Proceedings of the 12th European Symposium
+                 on Artificial Neural Networks (ESANN2004)},
+  year        = {2004},
+  pages       = {163--168},
+  ADDRESS     = {Bruges, Belgium},
+  month       = {Apr.~28--30},
+}
+
+@CONFERENCE{NCI:Sugiyama:2004,
+  AUTHOR      = {Sugiyama, M.},
+  title       = {Estimating the Error at Given Test Input Points for Linear Regression},
+  editor      = {Hamza, M. H.},
+  booktitle   = {Neural Networks and Computational Intelligence},
+  pages       = {113--118},
+  year        = {2004},
+  publisher   = {ACTA Press},
+  ADDRESS     = {Anaheim},
+  memo        = {Presented at
+                 the Second IASTED International Conference
+                 on Neural Networks and Computational Intelligence (NCI2004),
+                 Grindelwald, Switzerland, Feb.~23--25, 2004},
+}
+
+@CONFERENCE{AIA:Sugiyama+Okabe+Ogawa:2004,
+  AUTHOR      = {Sugiyama, M. and Okabe, Y. and Ogawa, H.},
+  title       = {On the Influence of Input Noise on a Generalization Error Estimator},
+  editor      = {Hamza, M. H.},
+  booktitle   = {Artificial Intelligence and Applications},
+  pages       = {218--223},
+  year        = {2004},
+  publisher   = {ACTA Press},
+  ADDRESS     = {Anaheim},
+  memo        = {Presented at
+                 the IASTED International Conference
+                 on Artificial Intelligence and Applications (AIA2004),
+                 Innsbruck, Austria, Feb.~16--18, 2004},
+}
+
+@CONFERENCE{IFAC:Sugiyama:2003,
+  AUTHOR      = {Sugiyama, M.},
+  TITLE       = {Functional Analytic Framework for Model Selection},
+  BOOKTITLE   = {Proceedings of 13th IFAC Symposium on System Identification (SYSID2003)},
+  PAGES       = {73--78},
+  ADDRESS     = {Rotterdam, The Netherlands},
+  month       = {Aug.~27--29},
+  YEAR        = {2003},
+}
+
+@CONFERENCE{FIT:Sugiyama:2002,
+  AUTHOR      = {Sugiyama, M.},
+  title       = {Model Selection for Support Vector Regression},
+  booktitle   = {Information Technology Letters},
+  VOLUME      = {1},
+  pages       = {115--116},
+  year        = {2002},
+  memo        = {Presented at
+                 Forum on Information Technology (FIT2002),
+                 Tokyo, Japan, Sep.~25--28, 2002},
+  NOTE        = {In Japanese},
+}
+
+@CONFERENCE{ICANN:Sugiyama+Mueller:2002,
+  AUTHOR      = {Sugiyama, M. and M{\"u}ller, K.-R.},
+  TITLE       = {Selecting Ridge Parameters in Infinite Dimensional Hypothesis Spaces},
+  editor      = {Dorronsoro, J. R.},
+  BOOKTITLE   = {Artificial Neural Networks},
+  PAGES       = {528--534},
+  series      = {Lecture Notes in Computer Science},
+  volume      = {2415},
+  publisher   = {Springer},
+  address     = {Berlin},
+  YEAR        = {2002},
+  memo        = {Presented at
+                 International Conference on Artificial Neural Networks (ICANN2002),
+                 Madrid, Spain, Aug.~27--30, 2002},
+}
+
+@CONFERENCE{IJCNN:Sugiyama+Ogawa:2002,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Release from Active Learning/Model Selection Dilemma:
+                 {O}ptimizing Sample Points and Models at the Same Time},
+  BOOKTITLE   = {Proceedings of the International Joint Conference on Neural Networks
+                 (IJCNN2002)},
+  VOLUME      = {3},
+  PAGES       = {2917--2922},
+  ADDRESS     = {Honolulu, Hawaii, USA},
+  month       = {May 12--17},
+  YEAR        = {2002},
+}
+
+@Conference{SCIA:Sugiyama+Imaizumi+Ogawa:2001,
+  AUTHOR      = {Sugiyama, M. and Imaizumi, D. and Ogawa, H.},
+  TITLE       = {Subspace Information Criterion for Image
+                 Restoration---{M}ean Squared Error Estimator for Linear Filters},
+  booktitle   = {Proceedings of the 12th Scandinavian Conference on Image Analysis (SCIA2001)},
+  pages       = {169--176},
+  ADDRESS     = {Bergen, Norway},
+  month       = {Jun.~11--14},
+  YEAR        = {2001},
+}
+
+@CONFERENCE{ICANNGA:Sugiyama+Ogawa:2000,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  title       = {Model Selection with Small Samples},
+  editor      = {Kurkova, V. and Steele, N. C. and Neruda, R. and Karny, M.},
+  booktitle   = {Artificial Neural Nets and Genetic Algorithms},
+  pages       = {418--421},
+  year        = {2000},
+  publisher   = {Springer},
+  address     = {Wien},
+  memo        = {Presented at 5th International Conference
+                 on Artificial Neural Networks and Genetic Algorithms (ICANNGA2000),
+                 Prague, Czech Republic, Apr.~22--25, 2001},
+}
+
+@CONFERENCE{IJCNN:Sugiyama+Ogawa:2000,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Incremental Active Learning with Bias Reduction},
+  BOOKTITLE   = {Proceedings of the {IEEE-INNS-ENNS}
+                 International Joint Conference on Neural Networks (IJCNN2000)},
+  VOLUME      = {1},
+  PAGES       = {15--20},
+  ADDRESS     = {Como, Italy},
+  month       = {Jul.~24--27},
+  YEAR        = {2000},
+}
+
+@CONFERENCE{ESANN:Sugiyama+Ogawa:2000,
+  author      = {Sugiyama, M. and Ogawa, H.},
+  title       = {A New Information Criterion for the Selection of Subspace Models},
+  booktitle   = {Proceedings of the 8th European Symposium on Artificial Neural Networks
+                 (ESANN2000)},
+  year        = {2000},
+  pages       = {69--74},
+  ADDRESS     = {Bruges, Belgium},
+  month       = {Apr.~26--28},
+}
+
+@CONFERENCE{NIPS:Sugiyama+Ogawa:2000,
+  author      = {Sugiyama, M. and Ogawa, H.},
+  title       = {Training Data Selection for Optimal Generalization
+                 in Trigonometric Polynomial Networks},
+  editor      = {Solla, S. A. and Leen, T. K. and M{\"u}ller, K.-R.},
+  booktitle   = {Advances in Neural Information Processing Systems 12},
+  pages       = {624--630},
+  year        = {2000},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  memo        = {Presented at Neural Information Processing Systems---Natural and Synthetic
+                (NIPS1999),
+                 Denver, Colorado USA, Nov.~29--Dec.~4, 1999},
+}
+
+@CONFERENCE{SPIE:Sugiyama+Ogawa:1999,
+  AUTHOR      = {Sugiyama, M. and Ogawa, H.},
+  TITLE       = {Pseudo Orthogonal Bases Give the Optimal Generalization Capability
+                 in Neural Network Learning},
+  BOOKTITLE   = {Proceedings of SPIE, Wavelet Applications in
+                 Signal and Image Processing VII},
+  VOLUME      = {3813},
+  PAGES       = {526--537},
+  ADDRESS     = {Denver, Colorado, USA},
+  month       = {Jul.~19--23},
+  YEAR        = {1999},
+}
+
+@CONFERENCE{SCIA:Sugiyama+Ogawa:1999,
+  author      = {Sugiyama, M. and Ogawa, H.},
+  title       = {Exact Incremental Projection Learning in the Presence of Noise},
+  booktitle   = {Proceedings of the 11th Scandinavian Conference on Image Analysis (SCIA1999)}, 
+  pages       = {747--754},
+  address     = {Kangerlussuaq, Greenland},
+  year        = {1999},
+  month       = {Jun.~7--11},
+}
+
+@CONFERENCE{WIRN:Vijayakumar+Sugiyama+Ogawa:1998,
+  author      = {Vijayakumar, S. and Sugiyama, M. and Ogawa, H.},
+  title       = {Training Data Selection for Optimal Generalization with Noise Variance
+                 Reduction in Neural Networks},
+  editor      = {Marinaro, M. and Tagliaferri, R.},
+  booktitle   = {Neural Nets WIRN Vietri-98},
+  year        = {1998},
+  address     = {London},
+  publisher   = {Springer},
+  pages       = {153--166},
+  memo        = {Presented at the 10th Italian Workshop on Neural Nets (WIRN Vietri-98),
+                 Salerno, Italy, May 21--23, 1998},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Books
+
+@BOOK{book:Hachiya+etal:2012,
+       AUTHOR = {Hachiya, H. and Morimura, T. and Sugiyama, M.},
+       TITLE = {Statistical Reinforcement Learning:
+                Machine Learning and Data Mining Approach},
+	PUBLISHER = {Chapman \& Hall/CRC Press},
+       YEAR = {2012},
+note={to appear},
+}
+
+@BOOK{book:Sugiyama+etal:2012,
+       AUTHOR = {Sugiyama, M. and Suzuki, T. and Kanamori, T.},
+       TITLE = {Density Ratio Estimation in Machine Learning},
+	PUBLISHER = {Cambridge University Press},
+	ADDRESS = {Cambridge, UK},
+       YEAR = {2012},
+}
+
+@BOOK{book:Sugiyama+Kawanabe:2012,
+       AUTHOR = {Sugiyama, M. and Kawanabe, M.},
+       TITLE = {Machine Learning in Non-Stationary Environments: {I}ntroduction to Covariate Shift Adaptation},
+       PUBLISHER = {MIT Press},
+       ADDRESS = {Cambridge, MA, USA},
+       YEAR = {2012},
+}
+
+@BOOK{book:Sugiyama+Qiang:2010,
+       EDITOR = {M. Sugiyama and Q. Yang},
+       TITLE = {Proceedings of the Second Asian Conference on Machine Learning (ACML2010)},
+       PUBLISHER = {JMLR Workshop and Conference Proceedings},
+       YEAR = {2010},
+       ADDRESS = {Tokyo, Japan}
+}
+
+@BOOK{book:Sugiyama:2009,
+       AUTHOR = {Sugiyama, M.},
+       TITLE = {Statistical Machine Learning: Pattern Recognition Based on Generative Models},
+       PUBLISHER = {Ohmsha},
+       YEAR = {2009},
+       ADDRESS = {Tokyo, Japan},
+  NOTE        = {In Japanese},
+}
+
+@BOOK{book:Quinonero-Candela+etal:2009,
+       EDITOR = {J. Qui{\~n}onero-Candela and M. Sugiyama and A. Schwaighofer and N. Lawrence},
+       TITLE = {Dataset Shift in Machine Learning},
+       PUBLISHER = {MIT Press},
+       YEAR = {2009},
+       ADDRESS = {Cambridge, MA, USA}
+}
+
+@BOOK{book:Hachiya+Sugiyama:2008,
+	AUTHOR = {Hachiya, H. and Sugiyama, M.},
+	TITLE = {Training Robotic Game Players by Reinforcement Learning},
+	PUBLISHER = {Mainichi Communications},
+	YEAR = {2008},
+	ADDRESS = {Tokyo, Japan},
+        NOTE = {In Japanese},
+}
+
+@BOOK{book:Motoda+etal:2008,
+       EDITOR = {Motoda, H. and Kurita, T. and Higuchi, T. and Matsumoto, Y. and Murata, N.},
+       AUTHOR = {Akaho, S. and Kamishima, T. and Sugiyama, M. and Onoda, T. and Ikeda, K. and
+                 Kashima, H.and Kazawa, H. and Nakajima, S. and Takeuchi, J. and
+                 Mochihashi, D. and Oyama, S. and Ide, T. and Shinoda, K. and Yamakawa, H.},
+       BOOKTITLE = {Pattern Recognition and Machine Learning (II):
+                {S}tatistical Inference Based on Bayes Theory},
+       PUBLISHER = {Maruzen Publishing},
+       YEAR = {2008},
+       ADDRESS = {Tokyo, Japan}
+}
+
+@BOOK{book:Motoda+etal:2007,
+       EDITOR = {Motoda, H. and Kurita, T. and Higuchi, T. and Matsumoto, Y. and Murata, N.},
+       AUTHOR = {Akaho, S. and Kamishima, T. and Sugiyama, M. and Onoda, T. and Ikeda, K. and
+                 Kashima, H.and Kazawa, H. and Nakajima, S. and Takeuchi, J. and
+                 Mochihashi, D. and Oyama, S. and Ide, T. and Shinoda, K. and Yamakawa, H.},
+       BOOKTITLE = {Pattern Recognition and Machine Learning (I):
+                {S}tatistical Inference Based on Bayes Theory},
+       PUBLISHER = {Maruzen Publishing},
+       YEAR = {2007},
+       ADDRESS = {Tokyo, Japan}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Articles in Books
+
+@incollection{Inbook:Sugiyama:2012,
+  author = 	 {Sugiyama, M.},
+  TITLE       = {Learning under Non-Stationarity: {C}ovariate Shift Adaptation by Importance Weighting.},
+  address     = {Berlin, Germany},
+  publisher   = {Springer},
+  EDITOR = {J. E. Gentle and W. H\"ardle and Y. Mori},
+  BOOKTITLE = {Handbook of Computational Statistics: Concepts and Methods},
+  edition = {Second},
+  YEAR = {2012},
+  chapter ={31},
+  pages ={xxx--xxx},
+}
+
+@incollection{Inbook:Tomioka+etal:2011,
+  author = 	 {Tomioka, R. and Suzuki, T. and Sugiyama, M.},
+  TITLE       = {Augmented {L}agrangian Methods for Learning, Selecting, and Combining Features},
+  address     = {Cambridge, MA, USA},
+  publisher   = {MIT Press},
+  EDITOR = {S. Sra and S. Nowozin and S. J. Wright},
+  BOOKTITLE = {Optimization for Machine Learning},
+  YEAR = {2011},
+  chapter ={9},
+  pages ={255--283},
+}
+
+@incollection{Inbook:Ueki+etal:2011,
+  author = 	 {Ueki, K. and Ihara, Y. and Sugiyama, M.},
+  TITLE       = {Perceived Age Estimation from Face Images},
+  address     = {Rijeka, Croatia},
+  publisher   = {InTech},
+  EDITOR = {G. Chetty and J. Yang},
+  BOOKTITLE = {Advanced Biometric Technologies},
+  YEAR = {2011},
+  chapter ={16},
+  pages ={325--342},
+}
+
+@incollection{Inbook:Rubens+etal:2010,
+  AUTHOR      = {Rubens, N. and Kaplan, D. and Sugiyama, M.},
+  TITLE       = {Active Learning in Recommender Systems},
+  EDITOR = {F. Ricci and L. Rokach and B. Shapira and P. B. Kantor},
+  BOOKTITLE = {Recommender Systems Handbook},
+  PUBLISHER = {Springer},
+  YEAR = {2010},
+  ADDRESS = {New York, NY, USA},
+  chapter ={23},
+  pages ={735--767},
+}
+
+@incollection{Inbook:Sugiyama+etal:2010,
+  AUTHOR      = {Sugiyama, M. and Suzuki, T. and Kanamori, T.},
+  TITLE       = {Density Ratio Estimation: {A} Comprehensive Review},
+  BOOKTITLEL     = {RIMS Kokyuroku},
+  PUBLISHER = {Kyoto University},
+  ADDRESS = {Kyoto, Japan},
+  EDITOR = {M. Akahira},
+  YEAR        = {2010},
+  NUMBER      = {1703},
+  PAGES       = {10--31},
+  chapter ={3},
+}
+
+@incollection{Inbook:Sugiyama+etal:2009,
+  AUTHOR      = {Sugiyama, M. and Rubens, N. and M{\"u}ller, K.-R.},
+  TITLE       = {A Conditional Expectation Approach to Model Selection and Active Learning
+                 under Covariate Shift},
+  EDITOR = {J. Qui{\~n}onero-Candela and M. Sugiyama and A. Schwaighofer and N. Lawrence},
+  BOOKTITLE = {Dataset Shift in Machine Learning},
+  PUBLISHER = {MIT Press},
+  YEAR = {2009},
+  ADDRESS = {Cambridge, MA, USA},
+  chapter ={7},
+  pages ={107--130},
+}
+
+@Article{ImageLab:Kitagawa+etal:2008,
+  AUTHOR      = {Kitagawa, K. and Sugiyama, M. and Matsuzaka, T. and Ogawa, H.  and Suzuki, K.},
+  TITLE       = {Two-wavelength Single-shot Interferometry},
+  JOURNAL     = {Image Lab},
+  VOLUME      = {19},
+  NUMBER      = {10},
+  PAGES       = {37--43},
+  YEAR        = {2008},
+  NOTE        = {In Japanese},
+}
+
+@Article{Eizojoho:Kitagawa+etal:2008,
+  AUTHOR      = {Kitagawa, K. and Sugiyama, M. and Matsuzaka, T. and Ogawa, H.  and Suzuki, K.},
+  TITLE       = {Two-wavelength Single-shot Interferometry},
+  JOURNAL     = {Eizojoho Industrial},
+  VOLUME      = {40},
+  NUMBER      = {2},
+  PAGES       = {51--58},
+  YEAR        = {2008},
+  NOTE        = {In Japanese},
+}
+
+@Article{ImageLab:Sugiyama:2007,
+  AUTHOR      = {Sugiyama, M.},
+  TITLE       = {Supervised Learning under Nonstationary Environment:
+                {W}hen Input Distribution Changes},
+  JOURNAL     = {Image Lab},
+  VOLUME      = {18},
+  NUMBER      = {10},
+  PAGES       = {1--6},
+  YEAR        = {2007},
+  NOTE        = {In Japanese},
+}
+
+@Article{BNN:Sugiyama:2006,
+  AUTHOR      = {Sugiyama, M.},
+  TITLE       = {Supervised Learning under Covariate Shift},
+  JOURNAL     = {The Brain \& Neural Networks},
+  VOLUME      = {13},
+  NUMBER      = {3},
+  PAGES       = {111--118},
+  YEAR        = {2006},
+  NOTE        = {In Japanese},
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Others
+
+@Conference{IEICE-GC:Moro+Sugiyama:2001,
+	AUTHOR = {Moro, S. and Sugiyama, M.},
+	TITLE = {Estimation of Precipitation from Meteorological Radar Data},
+        booktitle = {Proceedings of the 2001 IEICE General Conference},
+	Volume = {SD-1-10},
+	YEAR = {2001},
+	ADDRESS = {Shiga, Japan},
+	month = {Mar.~26--29},
+  pages =	 {264--265},
+}
+
+@TechReport{TITCSTR:Sugiyama:2003,
+  author = 	 {Sugiyama, M.},
+  title = 	 {Estimation of the Error at Points of Interest
+                  and Its Application to Transductive Model Selection},
+  institution =  {Department of Computer Science, Tokyo Institute of Technology},
+  year = 	 {2003},
+  number =	 {TR03-0004},
+  month =	 {Sep.},
+  url           = {http://www.cs.titech.ac.jp/},
+}
+
+@misc{NIPSworkshop:Quinonero-Candela+etal:2006,
+  author={J. Qui\~nonero-Candela and N. Lawrence and A. Schwaighofer and M. Sugiyama},
+  title={{NIPS2006} Workshop on Learning When Test and Training Inputs
+         Have Different Distributions},
+  url =    {http://ida.first.fraunhofer.de/projects/different06/},
+  year = 2006,
+}
+
+@Conference{IBIS:Hido+etal:2007,
+  author = 	 {Hido, S. and Tsuboi, Y. and Kashima, H. and Sugiyama, M.},
+  title = 	 {Novelty Detection by Density Ratio Estimation},
+        booktitle = {Proceedings of IBIS},
+  year = 	 {2007},
+  NOTE        = {In Japanese},
+}
+
+
+@TechReport{NC:Hachiya+etal:2007,
+author =       {Hachiya, H. and Akiyama, T. and Sugiyama, M.},
+title =        {Adaptive Importance Sampling with Automatic Model Selection
+                 in Value Function Approximation},
+       INSTITUTION = {IEICE Technical Report},
+       NUMBER = {NC2007-84},
+pages =        {75--80},
+year =         {2007},
+}
+
+@TechReport{TITCSTR:Kanamori+etal:2008,
+  author = 	 {Kanamori, T. and Hido, S. and Sugiyama, M.},
+  title = 	 {A Least-squares Approach to Direct Importance Estimation},
+  institution =  {Department of Computer Science, Tokyo Institute of Technology},
+  year = 	 {2008},
+  number =	 {TR08-0003},
+  month =	 {Jun.},
+  url           = {http://www.cs.titech.ac.jp/},
+}
+
+@TechReport{TITCSTR:Sugiyama+etal:2009a,
+  author = 	 {M. Sugiyama and M. Kawanabe and P. L. Chui},
+  title = 	 {Dimensionality Reduction for Density-Ratio Estimation in High-dimensional Spaces},
+  institution =  {Department of Computer Science, Tokyo Institute of Technology},
+  year = 	 {2009},
+  number =	 {TR09-0003},
+  month =	 {Feb.},
+  url           = {http://www.cs.titech.ac.jp/},
+}
+
+@TechReport{TITCSTR:Sugiyama+etal:2009b,
+  author = 	 {M. Sugiyama and I. Takeuchi and T. Suzuki and T. Kanamori and H. Hachiya},
+  title = 	 {Least-squares Conditional Density Estimation},
+  institution =  {Department of Computer Science, Tokyo Institute of Technology},
+  year = 	 {2009},
+  number =	 {TR09-0004},
+  month =	 {Feb.},
+  url           = {http://www.cs.titech.ac.jp/},
+}
+@TechReport{TITCSTR:Suzuki+Sugiyama:2009,
+  author = 	 {T. Suzuki and M. Sugiyama},
+  title = 	 {Sufficient Dimension Reduction via Squared-loss Mutual Information Estimation},
+  institution =  {Department of Computer Science, Tokyo Institute of Technology},
+  year = 	 {2009},
+  number =	 {TR09-0005},
+  month =	 {Feb.},
+  url           = {http://www.cs.titech.ac.jp/},
+}
+
+@TechReport{TITCSTR:Kanamori+etal:2009,
+  author = 	 {T. Kanamori and T. Suzuki and M. Sugiyama},
+  title = 	 {Condition Number Analysis of Kernel-based Density Ratio Estimation},
+  institution =  {Department of Computer Science, Tokyo Institute of Technology},
+  year = 	 {2009},
+  number =	 {TR09-0006},
+  month =	 {Feb.},
+  url           = {http://www.cs.titech.ac.jp/},
+}
+
+@TechReport{arXiv:Kanamori+etal:2009,
+  author = 	 {T. Kanamori and T. Suzuki and M. Sugiyama},
+  title = {Condition Number Analysis of Kernel-based Density Ratio Estimation},
+  institution =  {arXiv},
+  number = {0912.2800},
+  year = 	 {2009},
+}
+
+
+@Conference{MIRU:Sugiyama+etal:2008,
+  author = 	 {Sugiyama, M. and Kanamori, T. and Suzuki, T. and Hido, S. and
+                  Sese, J. and Takeuchi, I. and Wang, L.},
+  title = 	 {Direct Importance Estimation---{A} New Versatile Tool
+                  for Statistical Pattern Recognition},
+        booktitle = {Proceedings of Meeting on Image Recognition and Understanding 2008 (MIRU2008)},
+pages =        {29--36},
+  address     = {Nagano, Japan},
+  month       = {Jul.~29--31},
+  year = 	 {2008},
+}
+
+@Conference{DMSS:Takimoto+etal:2009,
+  author = 	 {Takimoto, M. and Matsugu, M. and Sugiyama, M.},
+  title = 	 {Visual Inspection of Precision Instruments by Least-Squares Outlier Detection},
+        booktitle = {Proceedings of the Fourth International Workshop on Data-Mining and Statistical Science (DMSS2009)},
+pages =        {22--26},
+  address     = {Kyoto, Japan},
+  month       = {Jul.~7--8},
+  year = 	 {2009},
+}
+
+@Conference{NIPSworkshop:Hachiya+etal:2010,
+  author = 	 {Hachiya, H. and Sugiyama, M. and Ueda, N.},
+  title = 	 {Coping with New User Problems:
+                  Transfer Learning in Accelerometer-Based Human Activity Recognition},
+        booktitle = {NIPS 2010 Workshop on Transfer Learning via Rich Generative Models},
+  year = 	 {2010},
+}
+
+@TechReport{arXiv:Yamada+etal:2011a,
+  author = {M. Yamada and G. Niu and J. Takagi and M. Sugiyama},
+  title = {Sufficient Component Analysis for Supervised Dimension Reduction},
+  institution =  {arXiv},
+  number = {1103.4998},
+  year = 	 2011,
+}
+
+@TechReport{arXiv:Yamada+etal:2011b,
+  author = {M. Yamada and T. Suzuki and T. Kanamori and H. Hachiya and M. Sugiyama},
+  title = {Relative Density-Ratio Estimation for Robust Distribution Comparison},
+  institution =  {arXiv},
+  number = {1106.4729},
+  year = 	 {2011},
+}
+
+@TechReport{arXiv:Song+etal:2012,
+  author = {S. Liu and M. Yamada and N. Collier and M. Sugiyama},
+  title = {Change-Point Detection in Time-Series Data by Relative Density-Ratio Estimation},
+  institution =  {arXiv},
+  number = {1203.0453},
+  year = 	 {2012},
+}
+
+@TechReport{arXiv:Sugiyama+etal:2011,
+  author = 	 {Sugiyama, M. and Yamada, M. and Kimura, M. and Hachiya, H.},
+  title = {Information-Maximization Clustering based on Squared-Loss Mutual Information},
+  institution =  {arXiv},
+  number = {1112.0611},
+  year = 	 {2011},
+}
+
+
+@Conference{IEE:Yamanaka+etal:2011,
+  author = 	 {Yamanaka, M. and Matsugu, M. and Sugiyama, M.},
+  title = 	 {Automatic Detection of Regions of Interest Based on Density Ratio Estimation},
+        booktitle = {Proceedings of 2011 Annual Conference of {IEE} of Japan},
+pages =        {143--149},
+  address     = {Okinawa, Japan},
+  month       = {Sep.~6--8},
+  year = 	 {2011},
+}
