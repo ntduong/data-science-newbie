@@ -1,0 +1,82 @@
+Note on getting my hands dirty with REDIS
+
+0. Preliminaries
++ Download from  https://github.com/dmajkic/redis/downloads if you're on Windows system
++ use redis-server and redis-cli pre-compiled commands
++ check out The Little Redis Book by Karl Seguin for a starting point!
+Ref:  http://openmymind.net
+
++ in-memory persistent store
++ "persistent" means Redis snapshots db to disk based on how many keys have changed
+
+I. Redis newbie
+1. The building blocks
+a. Databases
+select 0: switch to default db
+select i: switch to ith db
+
+b. Some useful commands
++ set key value
++ get key
+E.g: set users:duong "{name:duong, planet:moon, likes:[programming]}"
+     get users:duong
++ flushdb: to clear all values in your db
++ keys * : get all keys in current db
+
+
+c. Querying
+Key is everything, but value is nothing
+Redis does NOT allow you to query an object's value --> feel limited!?
+
+In Redis, value can be anything, and Redis never needs to understand or read them --> Redis' way to model the world!
+
+d. Short summary
++ keys are strings which identify pieces of data (values)
++ values are arbitrary byte arrays that Redis does not care about
++ Redis exposes 5 *specialized data structures* --> those make Redis stand out among others
++ Redis is fast and easy-to-use(?), but not suitable for every scenario
+--> NOT ONE-FOR-ALL SOLUTION
+
+II. Data structures in Redis
+1. Strings
+strlen key
+getrange key
+append key append_part
+
+incr key
+incrby key increment_val
+decr key
+decrby key decrement_val
+
+2. Hashes
+hset key field field_val
+hget key field
+hmset key [field field_val]+
+hmget key [field]+
+hgetall
+hkeys key # get all fields
+hdel key field
+
+E.g: 
+hset user:duong name duong school tokyotech
++ Now user:duong (key) have 2 fields
+ - name: duong
+ - school: tokyotech
+ 
+hget user:duong school name
+hgetall user:duong
+hkeys user:duong # --> name, school
+hdel user:duong name
+
+3. List
+lpush list_name new_item # push item @front of the list (left push)
+rpush list_name new_item # push item @end of the list (right push)
+ltrim list_name start end # trim the list and only retain [start, end] range of the list
+lrange list_name start end # print out list items in [start, end]
+llen list_name # get the length of list
+
+4. Set
++ unordered set
+
+5. Sorted set
++ score-ordered set

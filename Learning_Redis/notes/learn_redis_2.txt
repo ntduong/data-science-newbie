@@ -1,0 +1,38 @@
+BEYOND THE DATA STRUCTURE
+
+1. Expiration
++ set expiration for a key (and its associated value)
+
++ syntax
+expire key time_in_sec
+expire key absolute_timestamp
+
++ to check how long an item has to live until its expiration, use ttl command
+ttl key
+
++ to remove an expiration on a key, use persist command
+persist key
+
++ setex key expire_time_in_sec "content string"
+
+2. Publication and Subcriptions
+Open muliple redis-cli, here for simplicity two redis-clis are used.
+In the first redis-cli:
++ subscribe channel_name
+In the second redis-cli:
++ publish channel_name "msg"
+
+Check it out!
+* Note: publication-subcription can be used for multiple channels
+
+3. Monitor and slow-log
+4. Sort
+
++ It might be nice to combine sort and hash ds
+sort duong:tasks by task:*->priority get task:*->description
+
++ Some time, we need to store the result of sort, just use sort command
+sort duong:tasks by task:*->priority get task:*->description store task:description:by:priority
+
+5. Try redis with python
+easy_install redis
