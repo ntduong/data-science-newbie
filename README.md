@@ -1,7 +1,13 @@
 Data Science Newbie
 ===================
 
-Newbie's Adventures in Data Wonderland with self-learning notes, mini-projects, etc.
+Self-learning notes, mini-projects, personal experiences with Data Science
+
+Data Analysis Techniques (mainly Statistics, Machine Learning)
+
+Data Processing Frameworks (Map Reduce, etc.)
+
+NoSQL (MongoDB, Redis, etc.)
 
 =============================
 (c) Duong Nguyen @TokyoTech
