@@ -1,0 +1,54 @@
+1. CRUD
++ create
++ read (select, find)
++ update 
++ delete (remove)
+
+2. Mongo Shell revisited
++ javascript interpreter: you can type javascript code and run it in mongo shell
++ code completion
++ help command
+
+3. BSON
++ MongoDB is document-oriented db
++ mongodb use binary rep for internal db
++ BSON = binary json
+check out bson homepage
+
+4. mongo shell in detail
+Let's consider people collection in test db now
+
+* insert
+use test
+p1 = {"name":"duong", "age":25, "profession": "student"}
+db.people.insert(p1)
+
+* findOne(): get back one doc in a collection at random
+findOne({name:"duong"}, {"name":true, "_id":false})
+
+Note: the second argument identifies which fields you want to get (true/false)
+cf. Projection in SQL
+
+* find()
+
+* Querying use operators
++ $gt, $lt, $lte, etc.
+db.scores.find( { score: { $gt: 50, $lte: 90 }, type : "essay" } )
+db.names.find( {name: {$lte: "d"}} )
+
++ $regex, $exists, $type
+
+db.users.find({name: {$regex:"q"}, email: {$exists: true}})
+
++ $or, $and
+db.users.find( {$or: [{name: {$regex: "e$"}}, {age: {$exists:true}}]} )
+
+* Trick question
+db.scores.find( {score: {$gt:50}, score: {$lt: 60}} ) == db.scores.find({score: {$lt:60}})
+
++ querying inside array
++ $in, $all
++ querying with dot notation
+
+* db.scores.count()
+

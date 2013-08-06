@@ -1,0 +1,2 @@
+Welcome to the Final Exam, Problem 3 Checker. My job is to make sure you updated the doc correctly
+Tests Passed for Final 3. Your Final 3 validation code is 897h6723ghf25gd87gh28

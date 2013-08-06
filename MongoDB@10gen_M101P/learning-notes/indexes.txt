@@ -1,0 +1,36 @@
+MongoDB 101P - Week 4: Performance - Indexes
+
+Instead of table/collection scanning, we use indexes to quickly find something in a collection
+In MongoDB, indexing is ordered list of keys, using b-tree
+Creating the indexing scheme based on what you are most likely to query data
+
+1. 
+db.coll.ensureIndex({field_1:1, field_2:-1,...}), 1 means ascending order, -1 for descending order?
+db.coll.getIndexes()
+db.coll.dropIndex({})
+
+db.system.indexes.find() : to get all indexes in your db
+
+2. Multikey indexes
+
+3. Unique indexes
+db.coll.ensureIndex({f1:1}, {unique:true, [dropDups:true], [sparse:true]})
++ dropDups: true to remove duplicate items (can be dangerous)
+
+4. Index creation
++ background: slow but non-block
++ foreground: fast but block writer
+
+5. using explain()
+
+6. How big is your indexes? 
+db.coll.totalIndexSize()
+
+7. Index cardinality
++ Regular: 1 - 1 (~ #.of.documents)
++ Sparse: << #.of.documents
++ Multikey: > #.of.documents
+
+8. Select index on large range of value to improve the performance by reducing the searching, etc time
+
+9. Geospacial spherical/Geospatial indexes

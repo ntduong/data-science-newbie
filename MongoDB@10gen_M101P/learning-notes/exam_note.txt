@@ -1,0 +1,12 @@
+Q1. db.messages.count({"headers.From":"andrew.fastow@enron.com", "headers.To":"jeff.skilling@enron.com"})
++ Answer: 3
+See also, exam_pymongo.py
+
+Q2.
+From susan.mara@enron.com To jeff.dasovich@enron.com: 750 --> Answer
+From susan.mara@enron.com To richard.shapiro@enron.com: 616
+From susan.mara@enron.com To james.steffes@enron.com: 646
+From susan.mara@enron.com To alan.comnes@enron.com: 550
+From soblander@carrfut.com To soblander@carrfut.com: 679
+From evelyn.metoyer@enron.com To kate.symes@enron.com: 567
+See also, exam_pymongo.py

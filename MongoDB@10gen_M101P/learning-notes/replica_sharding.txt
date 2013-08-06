@@ -1,0 +1,56 @@
+Week 6 - APP Engineering
+Check out api.mongodb.org for pymongo driver info!
+-----------------------------------------------------------------
+I. Write Concern
++ write op (insers, update, etc.)
+* Parameters:
+ - w:
+ - j (journal): a log in a disk containing a list of operations applied to data on the disk
+
+* Table *
+w j 
+0 0 : fire and forget
+1 0 : acknowledge
+1 1 : commit to journal
+0 1 : commit to journal 
+
+* Network errors
++ Not 100% sure whether a write op successes or not
+
+* Write concern in pymongo
+c = pymongo.MongoClient(host="mongodb://localhost:27017", w=1, j=True)
+
+in pymongo 2.4, w=1, j=0 are set as default (safe mode)
+
+II. Replication: using redundancy
++ availability
++ fault tolerance
+
+* Keywords: Replica set, election, primary, secondary
+* we need majority to elect the new primary from secondaries --> #(replica set) >= 3
+2. Types of replica set nodes
++ regular
++ arbiter (for voting)
++ delayed/regular (p=0, not become primary)
++ hidden (not become primary, p=0)
+* VOTE *
+
+3. Write consistency
+4. Failover: when primary downs + Rollback
+5. How to handle failover properly
++ using try/catch blocks in pymongo
++ retry read/write until new primary is elected
+
+III. Sharding <-> Scaling out
++ split out data across many shards (sets of nodes)
++ each shard in turn is often a replica set
++ make a new layer, transparent to programmer when accessing data
++ shard_key
+ - every doc contains the shard_key
+ - the shard_key is immutable
+ 
+ 
+1. Building a sharded environment (long story)
+
+ 
+

@@ -1,0 +1,49 @@
+1. Simple example:
+db.products.aggregate([{$group:{"_id":"$manufacturer", "num_products":{$sum:1}}}])
+
+2. Aggregation Pipeline
+$project: reshape, 1-1
+$match: filter, n-1
+$group: aggregation, n-1
+$sort: sort, 1-1
+$skip: skips, n-1
+$limit, n-1
+$unwind, 1-n
+
+3. Compound grouping
+db.products.aggregate([{$group:{"_id":{"maker":"$manufacturer", "category":"$category"}, "num_products":{$sum:1}}}])
+
+4. Use a document for _id (for general mongodb, not just related to aggregation)
+5. 
++ $sum
+db.products.aggregate([
+    {$group:
+        {
+            "_id":{
+                "maker": "$manufacturer"
+            },
+            sum_prices:{$sum : "$price"}
+        }
+    
+    }
+])
+
++ $avg
++ $addToSet
+
+6. double $group stages
+
+7. $unwind aggregator
+
+db.messages.aggregate([
+    {"$unwind":"$headers.To"},
+    {$group:
+        {
+            "_id":"$headers.From",
+            tos: {$addToSet: "$"}
+        }
+    
+    }
+
+
+])

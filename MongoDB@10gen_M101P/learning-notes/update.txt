@@ -1,0 +1,35 @@
+Update in MongoDB
+
+1. Wholesale updating of a document
+
+E.g:
+db.scores.update({old}, {new})
+* all of old doc but _id are replace with a new doc -> a bit dangerous!
+
+2. 
+db.people.update({name:"duong"}, {$set : {school:"titech"}})
+db.people.update({name:"duong"}, {$inc : {age : 1}})
+
+db.people.update({name:"duong"}, {$unset : {"profession":1}}) 
+* Here, 1 means true, remove profession field. Use this for updating db schema
+
+3. db.arrays.insert({_id:0, a:[1,2,3,4]})
+db.arrays.update({_id:0}, {$set:{"a.2":5}})  # --> a:[1,2,5,4]
+db.arrays.update({_id:0}, {$push:{a:6}}) # push to the end
+db.arrays.update({_id:0}, {$pop:{a:1}}) # pop from the end
+db.arrays.update({_id:0}, {$pop:{a:-1}) # pop from the beginning
+$pushAll, $pull, $pullAll, $addToSet, etc.
+
+4. upsert = update + insert if not existed
+
+db.people.update({old},{new},{upsert:true})
+
+5. Multi-update
+db.people.update({},{new},{multi:true})
+
+6. Removing data
+db.people.remove({find_cond})
+db.people.drop()
+
+7. getLastError
+db.runCommand( { getLastError : 1 } )

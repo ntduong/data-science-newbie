@@ -1,0 +1,44 @@
+MONGODB with Python [10gen course]
+
+2013/06/17
+1. What is MongoDB?
++ Non-relational 
++ store JSON documents 
++ schema-less
+etc...
+
+2. MongoDB + Mongo Shell + HTTP server(python, bottle web framework, pymongo, etc.) <-> users
+
+3. JSON
+E.g: {}
+	{a:1,b:2}
+	{c:1,a:{d:2,b:4}}
+	{c:2, fruit:['apple','orange']}
+	
+4. Mongo shell
+* help
+* show dbs
+* show collections
+* use db_name
+E.g: use test # switch to test db
+* db.collection_name.save({json_obj})
+* db.collection_name.insert({json_obj})
+* var j = db.collection_name.findOne([cond]) # j is an JSON obj??
+ - then update j like, j.field_name = new_value
+ - db.collection_name.save(j) # save changes and update db
+* db.collection_name.find([cond])
+* db.collection_name.find().pretty()
+
+5. JSON revisited
++ array: list of things [...]
++ dictionary: associate map {k:v}
++ check www.json.org for more details.
+
+6. Modeling blog-post in mongoDB
+posts collection
+{title:..., author:..., date:...., comments:[{}], tags:[]}
+
+authors collection
+{id:...., pass:....}
+
+* Note on scheme design: 16MB document limit within MongoDB 

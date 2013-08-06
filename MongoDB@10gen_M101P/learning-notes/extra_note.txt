@@ -1,0 +1,37 @@
+MongoDB - simple & addtional tutorial
+
+1. How to convert the ObjectId from a string
+from bson.objectid import ObjectId
+ObjectId(object_id_string)
+
+Q. Why we need to do this
+A. Let's param be the parameter to pass in: collection.find_xxx({"_id": param}),
+then param's type must be ObjectId, not string
+
+2. Range Queries
++ Use some advanced operators, like $lt, etc.
+
+3. Sort
+sort(key, order)
+E.g: sort("date", 1)
+	sort([("field1", pymongo.ASCENDING), ("field2", pymongo.DESCENDING)]) # multiple field sorting
+order = 1: ASCENDING
+order = -1: DESCENDING
+
+
+4. Indexing
+collection_name.create_index([(key1, order), (key2, order)])
+
+where order might be ASCENDING, DESCENDING
+
+Eg: Let's say we already have a collection, called posts
+
+d = datetime.datetime.utcnow()
+posts.create_index([("date", DESCENDING), ("author", ASCENDING)]) # (compound) indexing by date and author field keys
+posts.find({"date":{"$lt": d}}).sort("author").explain()["cursor"]
+											  .explain()["nscanned"]
+											  
+*Note: Use explain() to get some info about how the query is being performend internally.
+
+5. What does find() or find_one() return?
++ Cursor instance, which allow us to iterate over all matching documents.

@@ -1,0 +1,9 @@
+Welcome to the M101 Final Exam, Question 4 Validation Checker
+Trying to grab the blog home page at url and find the first post. http://localhost:8082/
+Fount a post url:  /post/hello_world
+Trying to grab the number of likes for url  http://localhost:8082/post/hello_world
+Likes value  5
+Clicking on Like link for post:  /post/hello_world
+Trying to grab the number of likes for url  http://localhost:8082/post/hello_world
+Likes value  6
+Tests Passed for Final 4. Your validation code is 3f837hhg673ghd93hgf8
