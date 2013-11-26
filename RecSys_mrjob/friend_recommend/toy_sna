@@ -1,0 +1,11 @@
+duong,hang,huong,thu,quyen,yuki,hang2,thuy,thanh
+thanh,duong,hang2,yuki
+thuy,duong,huong
+hang,huong,thu,lien,ngan,duong
+ngan,hang,huong,thu,lien
+lien,thu,huong,duong,hang,ngan
+thu,quyen,huong,hang,ngan,lien,duong
+huong,quyen,lien,ngan,thuy,duong,thu,hang
+yuki,thanh,duong,hang2
+hang2,duong,yuki,thanh
+quyen,thu,huong,duong
